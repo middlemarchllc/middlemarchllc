@@ -106,8 +106,9 @@ const ContactUs = (props) => {
                     <br></br>
                     <i className="fas fa-phone">&nbsp;&nbsp;&nbsp;&nbsp;<span className="map-phone">212-913-9660</span></i>
                   </Card.Text>
-                  <div className="gmap-div" style={{marginBottom: "1.5rem"}}>
-                    <iframe title="Connecticut Office" className="gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.11358640147!2d-73.53422348482826!3d41.04464507929712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c29f61d87b8a65%3A0x6237354b63450802!2s700%20Canal%20St%2C%20Stamford%2C%20CT%2006902!5e0!3m2!1sen!2sus!4v1640475781399!5m2!1sen!2sus" width="325" height="225" frameBorder="0" style={{ border: 0 }} allowFullScreen="" aria-hidden="false" tabIndex="0" loading="lazy" />
+                  <div className="gmap-div" style={{ marginBottom: "1.5rem" }}>
+                    <iframe title="New York Office" className="gmap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4681519309192!2d-73.97963938483831!3d40.751726979327614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259012bf7f7c7%3A0x391d930ce98ab3d0!2s125%20Park%20Ave%2C%20New%20York%2C%20NY%2010017!5e0!3m2!1sen!2sus!4v1640479027141!5m2!1sen!2sus" width="325" height="225" frameBorder="0" style={{ border: 0 }} allowFullScreen="" aria-hidden="false" tabIndex="0" loading="lazy" />
+
                   </div>
                 </Card.Body>
               </Card>
