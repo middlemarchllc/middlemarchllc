@@ -1,0 +1,35 @@
+.landing {
+  height: 100vh;
+  background-image: linear-gradient(to right bottom,var(--landing), var(--landing)), url(./images/landing.jpeg);
+  background-size: cover;
+  background-position: top;
+}
+.landing-primary {
+  color: var(--white-text);
+  text-transform: uppercase;
+  backface-visibility: visible;
+  margin-bottom: 6rem;
+}
+.landing-logo-box {
+  height: var(--logo);
+  /* height: 15rem; */
+  margin-bottom: 8rem;
+}
+.landing-logo {
+  height: 15rem;
+  margin-bottom: 4rem;
+}
+.landing-text-box {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.landing-tagline {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:white;
+  font-size: 3rem;
+  font-style: italic;
+}

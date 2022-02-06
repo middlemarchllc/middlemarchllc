@@ -1,0 +1,23 @@
+.section-firm {
+  height: 100vh;
+  text-align: center;
+  padding: 1.5rem 12rem;
+  overflow: auto;
+}
+.our-firm-text {
+  font-size: 2.5rem;
+  text-align: justify;
+  margin: 0rem 3rem 2rem 3rem;
+}
+.our-firm-images {
+  width: 35%;
+  height: 10vw;
+  object-fit: contain;
+  cursor: pointer;
+}
+.our-firm-merchPriv-text {
+  font-size: 2.25rem;
+  text-align: justify;
+  margin: 0rem 3rem 3rem 3rem;
+}
+

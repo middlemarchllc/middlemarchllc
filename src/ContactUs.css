@@ -1,0 +1,289 @@
+.contact {
+  /* height: 100vh; */
+  display:block;
+  overflow: auto;
+  background-image: linear-gradient(to right bottom,var(--background-grad-dk), var(--background-grad-dk)), url(./images/coins.png);
+  background-size: cover;
+  background-position: top;
+       min-height: 100vh;
+       padding-bottom: 24px;
+}
+
+.contact-section {
+  text-align: center;
+  /* height: 100vh; */
+  display:block;
+  overflow: auto;
+}
+.contact main {
+    /* height: 100vh; */
+  display:block;
+  overflow: auto;
+  margin-bottom: 16px;
+}
+
+.contact-header {
+  /* margin: -5rem 10rem 0 0; */
+  /* margin-top: -5rem; */
+  height: 10vh;
+  /* overflow-y: auto; */
+  text-align: center;
+}
+.contact-div {
+  margin: 2rem 15rem;
+  min-height: 80vh;
+  display:block;
+  overflow: auto;
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk) solid 1px;
+}
+
+.contact-col {
+  padding: 2rem 0;
+}
+
+@media screen and (min-width:1200px) {
+       .contact-container {
+         /* margin: 10rem 40rem; */
+       } /* And even larger */
+  .contact-col {
+    padding: 2rem 0;
+  }
+}
+
+
+.contact-container-old {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 57vh 15vh;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  grid-gap: 10px;
+  /* margin: 10rem 25rem; */
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk) solid 1px;
+  /* background-color: #2196F3; */
+  padding: 10px;
+}
+@media screen and (min-width:1200px) {
+  .contact-container-old {
+  grid-template-rows: 62vh 13vh;
+  } /* And even larger */
+}
+.contact-container-old > div {
+  /* background-color: rgba(255, 255, 255, 0.8); */
+  text-align: center;
+  padding: 20px 0;
+  /* font-size: 30px; */
+}
+.map1 {
+  height: 100%;
+  text-align: center;
+  color: var(--heading-dark);
+  /* background-color: aquamarine; */
+
+}
+.map1-header {
+  font-size: 2.5rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 2rem;
+  margin-top: 3rem;
+  font-family: var(--main-font);
+}
+.map1-text1 {
+  font-size: 2.25rem;
+  margin-bottom: 2rem;
+}
+.map1-text2 {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: var(--heading-medium);
+  font-weight: 500;
+}
+.gmap-div {
+align-self: flex-end;
+}
+.gmap {
+  /* margin-bottom: 2rem; */
+  margin-top: 1rem;
+  box-shadow: 3px 3px 3px var(--background-grad-dk);
+
+}
+.contact-phone {
+  font-size: 1.5rem ;
+  margin-bottom: 4rem;
+}
+.map-phone {
+  font-family: var(--main-font);
+  font-weight: 500;
+}
+.copywright {
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+}
+@media screen and (min-width:1200px) {
+  .map1-header {
+    font-size: 3.0rem;
+    margin-bottom: 2.5rem;
+  }
+  .map1-text1 {
+    font-size: 2.25rem;
+  }
+  .map1-text2 {
+    margin-bottom: 2rem;
+  }
+  .contact-phone {
+    font-size: 1.5rem ;
+    margin-bottom: 6rem;
+  }
+  .gmap {
+    /* margin-top: 2.5rem; */
+    /* align-self: flex-end; */
+  }
+  .gmap-div {
+    align-self: flex-end;
+  }
+  .copywright {
+  margin-bottom: 2rem;
+}
+}
+/* width="400" height="300" style="border:0;" allowfullscreen="" */
+.map2 {
+  /* height: 100%; */
+}
+
+.mail-list {
+  height: 100%;
+}
+.contact-input-box {
+  height: 100%;
+  /* border: 1pt solid var(--heading-medium); */
+  margin: 0rem 4rem;
+  box-shadow: inset 0 0 10px var(--heading-medium);
+  padding-bottom: 0.05rem;
+}
+.contact-form-box {
+  font-size: 1.75rem;
+}
+.alert-success .contact, .alert-danger .contact {
+  position: absolute;
+  left: 30%;
+}
+
+.footer-top {
+  /* margin: 4rem 2rem 0rem 2rem; */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  line-height: .25;
+}
+
+.footer1 {
+  height: 100%;
+  font-size: 1.25rem;
+  color: var(--heading-dark);
+  margin-bottom: .5rem;
+}
+@media screen and (min-width:1200px) {
+  .footer-top {
+    margin-top: -1rem;
+  }
+}
+@media screen and (min-width:1800px) {
+  .footer-top {
+    margin-top: 5rem;
+  }
+}
+/* ========== TOOLTIP ============= */
+.fa-phone{
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+.fa-phone .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: var(--heading-dark);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  top: 10px;
+  z-index: 1;
+}
+
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.fa-phone:hover .tooltiptext {
+  visibility: visible;
+  font-family: var(--main-font);
+}
+.contact-container {
+  max-width: 85%;
+  margin-top: 2rem;
+}
+
+.contact-row {
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk) solid 1px;
+}
+.contact-card {
+  background: none;
+}
+
+.contact-left, .contact-middle, .contact-right {
+  min-width: 425px;
+  /* max-width: 425px; */
+}
+.contact-right {
+  margin-top: 2rem;
+  margin-bottom: -2rem;
+}
+.contact-card-title, .contact-card-text {
+  color: var(--heading-dark);
+  font-family: var(--main-font)
+}
+.contact-card-title {
+  font-weight: 700;
+  margin-top: 2rem;
+}
+.contact-card-text, .contact-card-contact {
+ text-align: center;
+}
+.contact-card-text {
+  font-size: 2.25rem;
+  margin-top: 2rem;
+}
+.contact-card-join {
+  margin-top: 1rem;
+  font-weight: 700;
+  color: var(--heading-dark);
+}
+.contact-card-box {
+  margin: 4rem;
+  box-shadow: inset 0 0 10px var(--heading-medium);
+}
+
+.contact-card-contact {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  color: var(--heading-dark);
+  font-weight: 500;
+}
+.contact-footer {
+ /* max-width: 95%; */
+ justify-content: center;
+ margin-left: 2rem;
+ margin-right: 2rem;
+}
+
+.contact-alert-p {
+  text-align: left;
+}

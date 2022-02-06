@@ -1,0 +1,128 @@
+.news {
+  min-height: 100vh;
+  display:block;
+  overflow: auto;
+  background-image: linear-gradient(to right bottom,var(--background-grad-dk), var(--background-grad-dk)), url(./images/coins.png);
+  background-size: cover;
+  background-position: top;
+       min-height: 100vh;
+       padding-bottom: 24px;
+}
+
+.news-section {
+  text-align: center;
+  display:block;
+  overflow: auto;
+}
+.news main {
+  display:block;
+  overflow: auto;
+  margin-bottom: 16px;
+}
+
+.news-header {
+  /* margin-top: -5rem; */
+  height: 10vh;
+  text-align: center;
+  color:var(--white-text)
+}
+.news-content {
+  margin: 2rem 15rem;
+  min-height: 80vh;
+  display:block;
+  overflow: auto;
+  background: var(--white-text);
+}
+.news-card {
+  position: absolute;
+  height: 80%;
+  border: black solid 1pt;
+}
+
+.news-img {
+  height: 14rem;
+  object-fit: contain;
+}
+
+.news-title {
+  position: absolute;
+  display: block;
+  height: 15%;
+}
+
+.card, .border-none {
+  border: none;
+}
+.news-li {
+  /* margin-left: 2rem; */
+  /* margin-right: 2rem; */
+  font-size: 2rem;
+  color: var(--heading-medium);
+  text-align: left;
+  position: relative;
+  display: inline-block;
+}
+@media screen and (min-width:1200px) {
+       .news-li {
+         margin-left: 6rem;
+       } /* And even larger */
+  }
+
+    a {
+  text-decoration: none !important;
+  color: var(--heading-medium);
+}
+a:hover {
+  background-color: var(--heading-dark);
+  color: var(--white-text)
+}
+
+/* ========== TOOLTIP ============= */
+.news-div{
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+.news-div .news-tooltiptext {
+  visibility: hidden;
+  width: 30vw;
+  background-color: var(--heading-dark);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  font-family: var(--main-font);
+  font-weight: 400;
+  font-size: 1.75rem;
+  text-align: left;
+  padding: .75rem;
+  min-height: 12vh;
+}
+
+.tt-news, .tt-events {
+/* Position the tooltip text - see examples below! */
+  position: absolute;
+  top: -13rem;
+  z-index: 1;
+}
+.tt-events {
+/* Position the tooltip text - see examples below! */
+  left: -10rem;
+}
+.tt-modal{
+/* Position the tooltip text - see examples below! */
+  position: fixed;
+  /* left: 10rem; */
+  top: 17rem;
+  z-index: 1;
+  -webkit-column-span: all;
+         column-span: all;
+
+}
+
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.news-div:hover .news-tooltiptext {
+  visibility: visible;
+  font-family: var(--main-font);
+}

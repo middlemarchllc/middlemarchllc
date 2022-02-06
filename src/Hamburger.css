@@ -1,0 +1,57 @@
+
+.btn-flat {
+  position: fixed;
+  top: 2vh;
+  right: 1vw;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 15%;
+  width: 7rem;
+  height: 7rem;
+  border: rgba(27,44,89,1) 1pt solid;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(27,44,89, 1)' stroke-width='1' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  margin-top: -3rem;
+}
+
+.btn-xxl {
+  font-size: 5rem;
+  color: var(--heading-dark);
+}
+
+.offcanvas-right-label {
+  font-size: 2rem;
+  font-family: var(--main-font);
+  color: var(--heading-dark);
+  margin-bottom: 2.5rem;
+  margin-left: 2rem;
+  cursor: pointer;
+  text-align:left;
+}
+.offcanvas-right-label-inner {
+  font-size: 2rem;
+  font-family: var(--main-font);
+  color: var(--heading-dark);
+  margin-bottom: 2.5rem;
+  margin-left: 4.5rem;
+  cursor: pointer;
+  text-align:left;
+}
+
+.offcanvas-header {
+  font-size: 3rem;
+  margin-left: 2rem;
+}
+.fa-times-circle {
+  cursor: pointer;
+}
+.offcanvas-width {
+  width: 17vw;
+}
+
+@media only screen and (max-width: 1300px) {
+  .offcanvas-width {
+    width: 23vw;
+  }
+}

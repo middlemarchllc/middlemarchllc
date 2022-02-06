@@ -1,0 +1,104 @@
+.investors {
+  display:block;
+  overflow: auto;
+  min-height: 100vh;
+  padding-bottom: 24px;
+}
+.investors-section {
+  text-align: center;
+  display:block;
+  overflow: auto;
+}
+.investors-main {
+  display:block;
+  overflow: auto;
+  margin-bottom: 16px;
+}
+.investors-header {
+  height: 10vh;
+  text-align: center;
+}
+.investors-both {
+ box-shadow: 7px 7px 7px var(--background-grad-dk);
+ border: var(--background-grad-dk,0.5) solid .5px;
+}
+.blarg {
+  background-image: linear-gradient(to right bottom,var(--landing), var(--landing)), url(./images/coins.png);
+}
+.investors-left {
+  background-image: linear-gradient(to right bottom,var(--landing), var(--landing)), url(./images/coins.png);
+  border: var(--background-grad-dk,0.5) solid .5px;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  min-width: 550px;
+  max-width: 550px;
+}
+.investors-right{
+  min-width: 550px;
+  max-width: 550px;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk,0.5) solid .5px;
+}
+
+.invest-container {
+  margin: 10rem 25rem;
+  background-image: linear-gradient(to right bottom,var(--landing), var(--landing)), url(./images/coins.png);
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk,0.5) solid .5px;
+}
+@media screen and (min-width:1200px) {
+       .invest-container {
+         margin: 10rem 40rem;
+       } /* And even larger */
+  }
+
+.mm-logo {
+  text-align: center;
+  padding: 8rem;
+ }
+.mm-logo-box {
+  height: var(--logo);
+}
+.investors-input-box {
+  background-color: var(--white-text);
+  height: 100%;
+  padding: 0;
+}
+.investor-form-heading, .investor-form-become {
+  color: var(--background-grad-dk);
+  text-align: center;
+  /* margin-top: 1rem; */
+  margin-bottom: -2rem;
+}
+.investor-form-heading {
+font-size: 2.5rem;
+}
+.investor-form-become {
+  font-size: 2.25rem;
+}
+.investor-form-box {
+  margin: 2rem 8rem;
+  font-size: 1.75rem;
+  color: var(--background-grad-dk);
+}
+.btn-primary {
+  background-color: var(--heading-medium);
+  font-size: 1.5rem;
+}
+.btn-primary:hover {
+  background-color: var(--heading-light);
+  color: var(--heading-dark);
+}
+.alert-success, .alert-danger {
+  position: absolute;
+  left: 30%;
+}
+
+@media screen and (min-width:1200px) {
+       .alert-success, .alert-danger {
+         left: 35%;
+       } /* And even larger */
+  }
+
+  .alert-p {
+    text-align: left;
+  }

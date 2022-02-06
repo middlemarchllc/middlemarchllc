@@ -1,0 +1,247 @@
+.merchant-bank {
+  display:block;
+  overflow: auto;
+  background-image: linear-gradient(to right bottom,var(--background-grad-dk), var(--background-grad-dk)), url(./images/coins.png);
+  background-size: cover;
+  background-position: top;
+       min-height: 100vh;
+       padding-bottom: 24px;
+}
+
+.merchant-bank-section {
+  text-align: center;
+  display:block;
+  overflow: auto;
+}
+.merchant-bank-main {
+  display:block;
+  overflow: auto;
+  margin-bottom: 16px;
+}
+.merchant-bank-header {
+  height: 10vh;
+  text-align: center;
+}
+
+.mb-row {
+  margin: 0 1.5rem;
+}
+
+.mb-li {
+  text-align: left;
+  line-height: 6.5rem;
+  /* margin: 0rem 5rem 0rem 5rem; */
+}
+/* @media screen and (min-width: 1200px) {
+  .mb-col-r {
+    width: 40%;
+    margin-left: 7rem;
+  }
+} */
+.mb-col {
+  min-width: 60rem;
+}
+.mb-col-row {
+  align-items: center;
+  text-align: left;
+}
+
+.mb-heading-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  display: inline-block;
+  color: var(--heading-dark);
+  font-family: var(--main-font);
+  margin: 2rem 0rem 1rem 0rem;
+  text-align: left;
+}
+.mb-heading-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  display: inline-block;
+  color: var(--heading-dark);
+  font-family: var(--main-font);
+  margin: 2rem 0rem 1rem 0rem;
+  /* margin: 2rem 2rem 1rem 2rem; */
+}
+.mb-text-1 {
+  font-size: 2.5rem;
+  text-align: justify;
+  margin: 2rem auto 1rem auto;
+  line-height: 1.25;
+}
+.mb-text-2 {
+  font-size: 2rem;
+  /* text-align: center; */
+  line-height: 1.25;
+  /* margin: 1.5rem 0; */
+  /* color: var(--white-text) */
+  margin-left: 2rem;
+  margin-right: 4rem;
+}
+.mb-hover {
+  text-align: left;
+  justify-self: center;
+  align-self: center;
+  cursor: pointer;
+  height: 19vh;
+}
+.mb-hover:hover {
+  background-color: var(--heading-medium);
+  cursor: pointer;
+}
+.mb-images-1, .mb-images-2, .mb-images-3 {
+  height: auto;
+  object-fit: contain;
+  cursor: pointer;
+  margin-top: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+
+  width: 12rem;
+}
+
+.mb-heading-2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  display: inline-block;
+  color: var(--heading-dark);
+  font-family: var(--main-font);
+  /* margin-bottom: 1rem; */
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: -6rem;
+}
+.mb-heading-3 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  display: inline-block;
+  color: var(--heading-medium);
+  font-family: var(--main-font);
+  text-align: left;
+}
+
+/* ====================================================================================== */
+/* MODAL CSS */
+.mb-modal-close {
+  position: absolute;
+  right: 1.5rem;
+  top: 1.5rem;
+  cursor: pointer;
+}
+.mb-modal-header {
+  font-size: 3rem;
+  color: var(--heading-dark)
+}
+p.mb-modal {
+  font-size: 2.25rem;
+  text-align: justify;
+  margin-bottom: 1rem;
+  color: var(--heading-dark)
+}
+
+.modal-90w {
+  top: 6%;
+  height: 85vh;
+  min-width: 85vw;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  /* border: var(--background-grad-dk) solid 1px; */
+  overflow: auto;
+}
+.modal-content {
+  height: 85vh;
+  min-width: 85vw;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  /* border: var(--background-grad-dk) solid 1px; */
+}
+
+
+.merchant-bank-content {
+  margin: 2rem 15rem;
+  min-height: 80vh;
+  display:block;
+  overflow: auto;
+  background: var(--white-text);
+}
+.mb-container {
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  /* background-color: pink; */
+}
+
+.mb-row1 {
+  /* background-color: aqua; */
+  justify-content: center;
+  font-size: 2.5rem;
+  text-align: justify;
+  margin: 4rem;
+  line-height: 1.25;
+}
+.mb-row2 {
+  /* background-color: lightgreen; */
+  justify-content: space-evenly;
+  /* align-content: center; */
+}
+
+.mb-row2-col1 {
+  /* background-color: mediumslateblue; */
+  align-self: start;
+  justify-self: center;
+  text-align: left;
+  min-width: 60rem;
+  max-width: 60rem;
+  margin: 0 3rem;
+}
+.mb-row2-col1-row {
+  cursor: pointer;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.mb-row2-col1-row:hover {
+  background-color: var(--heading-medium);
+  cursor: pointer;
+}
+
+.mb-row2-col1-img {
+  float:left;
+  width: 10rem;
+  height: auto;
+  margin-right: 1.5rem;
+}
+.mb-row2-col1-h3 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--heading-dark);
+  font-family: var(--main-font);
+  text-align: left;
+}
+.mb-row2-col1-p {
+  font-size: 2rem;
+  line-height: 1.25;
+  text-align: left;
+}
+
+.mb-row2-col2 {
+  /* background-color: lightsalmon; */
+  align-self: center;
+  justify-self: center;
+  min-width: 60rem;
+  max-width: 60rem;
+  text-align: left;
+  margin: 0 3rem;
+}
+.mb-row2-col1-h2, .mb-row2-col2-h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  display: inline-block;
+  color: var(--heading-dark);
+  font-family: var(--main-font);
+  text-align: left;
+}
+.mb-row2-col1-h2 {
+  margin: 2rem 0rem 2rem 0rem;
+}
+.mb-row2-col2-h2 {
+  margin: 2rem 0rem 1rem 0rem;
+}

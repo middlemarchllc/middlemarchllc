@@ -1,0 +1,188 @@
+.team {
+  /* height: 100vh; */
+  display:block;
+  overflow: auto;
+  background-image: linear-gradient(to right bottom,var(--background-grad-dk), var(--background-grad-dk)), url(./images/coins.png);
+  background-size: cover;
+  background-position: top;
+       min-height: 100vh;
+       padding-bottom: 24px;
+}
+
+.team-section {
+  text-align: center;
+  /* height: 100vh; */
+  display:block;
+  overflow: auto;
+}
+.team main {
+    /* height: 100vh; */
+  display:block;
+  overflow: auto;
+  margin-bottom: 16px;
+}
+
+.team-header {
+  /* margin: -5rem 10rem 0 0; */
+  /* margin-top: -5rem; */
+  height: 10vh;
+  /* overflow-y: auto; */
+  text-align: center;
+}
+
+.team-card-div {
+  margin: 2rem 15rem;
+  /* height: 83vh;
+  overflow-y: scroll; */
+  display:block;
+  overflow: auto;
+  background: rgba(255, 255, 255, 0.4);
+}
+.team-card {
+  border: 1px solid var(--heading-dark);
+  margin: 2.5rem;
+  max-width: 30rem;
+}
+.team-member {
+  cursor: pointer;
+}
+
+.team-card-name {
+  font-size: 3rem;
+  font-weight: 700;
+  display: block;
+  color: var(--heading-dark);
+  margin: 1rem 0;
+  text-align: center;
+  cursor: pointer;
+}
+
+.team-card-title {
+  font-size: 2.45rem;
+  font-weight: 700;
+  display: block;
+  color: var(--heading-medium);
+  margin-bottom: 2rem 0;
+  font-family: var(--main-font);
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.team-card-text {
+  line-height: 1.5;
+  text-align: center;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.team-card-icon {
+  line-height: 1.5;
+  text-align: center;
+  color: var(--heading-light);
+  font-size: 3rem;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.card-profile {
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+  border:0;
+}
+
+.team-modal-close {
+  position: absolute;
+  right: 1.5rem;
+  top: 1.5rem;
+  cursor: pointer;
+}
+.team-modal-header {
+  font-size: 3rem;
+  color: var(--heading-dark)
+}
+p.team-modal {
+  font-size: 2.15rem;
+  text-align: justify;
+  margin-bottom: 1.5rem;
+  color: var(--heading-dark);
+  line-height: 1.3;
+}
+
+@media screen and (min-width: 1100px) {
+  p.team-modal {
+    font-size: 2.4rem;
+  }
+}
+
+.modal-90w {
+  top: 6%;
+  height: 85vh;
+  min-width: 85vw;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  /* border: var(--background-grad-dk) solid 1px; */
+  overflow: auto;
+}
+.modal-content {
+  height: 85vh;
+  min-width: 85vw;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  overflow: auto;
+  /* border: var(--background-grad-dk) solid 1px; */
+}
+
+/* .modal-dialog {
+  min-width: 85vw;
+  min-height: 85vh;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk) solid 1px;
+} */
+
+/* ========== TOOLTIP ============= */
+.fa-phone{
+  position: relative;
+  display: inline-block;
+  /* border-bottom: 1px dotted black; */
+}
+.fa-phone .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: var(--heading-dark);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  top: 10px;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.fa-phone:hover .tooltiptext {
+  visibility: visible;
+  font-family: var(--main-font);
+}
+
+.fa-phone .cardtiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: var(--heading-dark);
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  top: -37px;
+  left: -70px;
+  z-index: 1;
+}
+
+.fa-phone:hover .cardtiptext {
+  visibility: visible;
+  font-family: var(--main-font);
+}

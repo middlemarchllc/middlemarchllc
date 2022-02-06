@@ -1,0 +1,54 @@
+.fa-times-circle {
+  position:fixed;
+  top: 2%;
+  right: 1%;
+  color: var(--heading-dark);
+  cursor: pointer;
+  z-index: 1003;
+}
+
+.modal-wrapper {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1001;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.modal-box {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 90vh;
+  width: 90vw;
+  background-color: white;
+  z-index: 1002;
+  box-shadow: 7px 7px 7px var(--background-grad-dk);
+  border: var(--background-grad-dk) solid 1px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.modal-content {
+  padding: 0px 20px;
+  height: 95%;
+  border: 0;
+  overflow-y: scroll;
+}
+.modal-title {
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--heading-dark);
+  margin: 0;
+  text-align: center;
+}
