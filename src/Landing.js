@@ -13,7 +13,7 @@ const Landing = () => {
           <br></br>
           <img src={mmpartners} alt="logo" className="landing-logo" />
         </h1>
-        <div className="landing-tagline">Financing and Investing in Global Growth Companies</div>
+        <div className="landing-tagline">Financing and Investing in Global Growth Companies.</div>
       </div>
     </header>
   );
