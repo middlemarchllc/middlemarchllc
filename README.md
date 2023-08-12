@@ -6,8 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Make the changes in the local repo
 commit the changes
 git push origin main
-DO NOTHING ELSE
-
+npm run build
+Go to Github Pages [Github Pages](https://github.com/middlemarchllc/middlemarchllc/settings/pages)
+Make sure "middlemarchllc.com" is in the Custom Domain
+If not, add it (without quotes) and click Save
+Check the Actions to see if it is deployed
+When deployed make sure the webite is up and running
 
 ## Available Scripts
 
