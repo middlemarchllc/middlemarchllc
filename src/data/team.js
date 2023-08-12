@@ -53,19 +53,6 @@ var team = [
     ]
   },
   {
-    'id': 4,
-    'name': 'Oliver Rothauser',
-    'title': 'Partner',
-    'email': 'orothauser@middlemarchllc.com',
-    'phone': '917-549-4333',
-    'linkedin': 'linkedin.com/in/oliverrothauser',
-    'photo': OliverRothauser,
-    'expertise': 'Impact/ESG, financial services, technology-enabled businesses, and business building and operating experience across three entrepreneurial ventures ',
-    'paragraphs': [
-      'Mr. Rothauser\'s primary focus is advising and investing in Impact and ESG-oriented enterprises.  He also focuses on financial services and early stage ventures in emerging technology.', 'Prior to working with MiddleMarch, Mr. Rothauser was a Director and Head of Private Markets & Syndication in The Private Wealth Division of Deutsche Bank. In addition to handling all the commercial lending needs and sourcing private markets investments for the largest family office clients of Deutsche, Mr. Rothauser led the Impact initiative for Private Wealth interfacing clients and internal departments to deliver products and services to meet client needs. ', 'Previously, Mr. Rothauser co-founded Human Condition Safety (HCS), a company using advanced wearables, AI, and virtual reality simulations to improve safety conditions and save lives across multiple industries. ', 'In addition to HCS, Mr. Rothauser was a co-founder in Human Condition Labs, a 25,000 square foot impact laboratory and rapid prototyping facility focused on commercializing low-cost emerging technology. Prior to this, Mr. Rothauser founded Redhouse Capital Management, a private equity and consulting firm, where he worked with growth-stage companies and acted as a strategic investor and board member.  Mr. Rothauser began his career as a fixed income broker covering clients such as Morgan Stanley, UBS, Barclays, Deutsche Bank, RBS, and Goldman Sachs.', 'Mr. Rothauser attended the Fashion Institute of Technology.  He holds Series 7 and 63 FINRA registrations. '
-    ]
-  },
-  {
     'id': 5,
     'name': 'Alex Mack',
     'title': 'CFO & CCO',
