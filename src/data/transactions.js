@@ -7,7 +7,7 @@ import mutuo300w from '../images/transactions/mutuo-300w.jpeg';
 import channel300w from '../images/transactions/channel-300w.jpeg';
 import Photonic300w from '../images/transactions/Photonic-300w.jpeg';
 import FlexShopper300w from '../images/transactions/FlexShopper-300w.jpeg';
-import cream300w from '../images/transactions/creamfinance-2022.jpg';
+import avaFin300w from '../images/transactions/AvaFin-300w.jpg';
 import capfusionnew from '../images/transactions/capfusion-new.jpg';
 import privlonew from '../images/transactions/privlo-new.jpg';
 import benchnew from '../images/transactions/bench-new.jpg';
@@ -140,7 +140,7 @@ var transactions =
       'Order': 9
     },
     {
-      'Logo': cream300w,
+      'Logo': avaFin300w,
       'Name': 'Cream Finance',
       'Description': 'Online Consumer Lender',
       'MM': 'MM',
