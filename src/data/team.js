@@ -79,19 +79,6 @@ var team = [
     ]
   },
   {
-    'id': 9,
-    'name': 'Paul Hatch',
-    'title': 'Partner',
-    'email': 'phatch@convergency-partners.com',
-    'phone': '512-355-1500 ',
-    'linkedin': 'linkedin.com/in/paul-hatch-580a22a',
-    'photo': PaulHatch,
-    'expertise': 'Wealth management, asset management, fintech, and executive management ',
-    'paragraphs': [
-      'Paul Hatch is a member of Middlemarch and a Partner in Convergency Partners.  He began his career as an officer in the US Navy, after having graduated from the US Naval Academy in Annapolis. He served aboard the USS Coontz for three years and spent the remainder of his time in the Navy as a Political Military analyst responsible for briefing the President, Vice President and various other senior legislators on the situation in the Middle East. ', 'Following his service, Mr. Hatch joined EF Hutton as a financial advisor and began a 25+ year career at the firm that would morph to become Shearson Lehman Hutton, Smith Barney, and eventually Morgan Stanley Wealth Management. Along the way, he continued to rise through the organization, holding and mastering virtually every field management role and eventually becoming National Sales Manager. He was then promoted to the Head of all Products and Services, which included the advisory industry\'s leading platform. While in that capacity, Paul led the development of Smith Barney Advisor which raised over $20B in its first 18 months. He also negotiated the purchase of Legg Mason\'s UMA business. He also launched the Greystone Consulting Group at Morgan Stanley.', 'In 2009, Mr. Hatch was named the head of all Global Products for the newly formed Morgan Stanley Smith Barney Wealth Management. During this time, he was recognized as the Most Influential person in the Mutual Fund Industry by mfwire.com. He then took on the role of Vice Chairman for Morgan Stanley Global Wealth Management. Following his time at Morgan Stanley, Paul was appointed to the Board of Focus Financial, the leading provider of capital to the Independent Advisory business. Paul Hatch moved to UBS in 2014 where he was Group Managing Director, and head of Investment Products and Services for the Americas.'
-    ]
-  },
-  {
     'id': 10,
     'name': 'Jeff Miller',
     'title': 'Partner',
