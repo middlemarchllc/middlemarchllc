@@ -10,6 +10,7 @@ import n110 from '../news/news/MM PR Announcement Final 2013 02 12.pdf';
 import n111 from '../news/news/CapFusion-MM  PR Announcement 2016 05 31.pdf';
 import a200 from '../news/articles/Banks Tightening Creates Opportunities for Non-Banks.pdf';
 import a201 from '../news/articles/Sustainability MMP Article 2022 01 20b.pdf';
+import a202 from '../news/articles/ESG Fintech Article - MiddleMarch.pdf';
 import a203 from '../news/articles/Middlemarch Capital seeks co-investment partners for fintech deals _ Debtwire.pdf';
 import a204 from '../news/articles/US Investors Seek International  Fintechs.pdf';
 import a205 from '../news/articles/Evaluating and Managing Cyber Risk for Investors MM.pdf';
@@ -108,6 +109,13 @@ var newsarticles = [
     'Title': 'How Waste Became A Case For ESG Investing',
     'Link': a201,
     'Summary': 'How Middlemarch advised and invested in Veransa, a yard waste recycling company that produces organic compost as a substitute for chemical fertilizer.'
+  },
+  {
+    'Type': 'ARTICLES',
+    'Sort': 2.02,
+    'Title': 'ESG and Fintechs: Technology enables impact goals',
+    'Link': a202,
+    'Summary': 'How the current surge in ESG (“Environmental, Social, and Governance”) investing has influenced a material shift in the Financial Services sector'
   },
   {
     'Type': 'ARTICLES',
