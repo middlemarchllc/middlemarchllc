@@ -1,3 +1,4 @@
+import afs300w from '../images/transactions/afs-300w.jpeg';
 import sunseeker300w from '../images/transactions/sunseeker-300w.jpeg';
 import veransa300w from '../images/transactions/veransa-300w.jpeg';
 import skykick300w from '../images/transactions/skykick-300w.jpeg';
@@ -29,9 +30,20 @@ import resmaenew from '../images/transactions/resmae-new.jpg';
 var transactions =
   [
     {
+      'Logo': afs300w,
+      'Name': 'AFS',
+      'Description': 'Lending Analytics Provider',
+      'MM': 'MM',
+      'Type': 'Equity Raise',
+      'Amount': 'Undisclosed',
+      'Year': 2023,
+      'Investor': 'PCG US Holdings',
+      'Order': 0
+    },
+    {
       'Logo': sunseeker300w,
       'Name': 'Sunseeker',
-      'Description': 'Real Estate Development of Sunseeker Resort Charlotte Harbor ',
+      'Description': 'Real Estate Development of Sunseeker Resort Charlotte Harbor',
       'MM': 'MM',
       'Type': 'Debt Raise',
       'Amount': '350,000,000',
