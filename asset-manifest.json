@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5eb1aae2.chunk.css",
-    "main.js": "/static/js/main.7dc36c79.chunk.js",
-    "main.js.map": "/static/js/main.7dc36c79.chunk.js.map",
+    "main.js": "/static/js/main.41c9169b.chunk.js",
+    "main.js.map": "/static/js/main.41c9169b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
     "static/css/2.038361d8.chunk.css": "/static/css/2.038361d8.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/AlexKim.4046f89d.png": "/static/media/AlexKim.4046f89d.png",
     "static/media/AlexMack.46248456.jpeg": "/static/media/AlexMack.46248456.jpeg",
     "static/media/AstorInvestment-300w.0e7fa9db.jpeg": "/static/media/AstorInvestment-300w.0e7fa9db.jpeg",
+    "static/media/AvaFin-300w.5fd778ba.jpg": "/static/media/AvaFin-300w.5fd778ba.jpg",
     "static/media/Ballista-300w.a9a5d185.jpeg": "/static/media/Ballista-300w.a9a5d185.jpeg",
     "static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf": "/static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf",
     "static/media/CheckSmart-300w.176fd4e9.jpeg": "/static/media/CheckSmart-300w.176fd4e9.jpeg",
@@ -50,6 +51,7 @@
     "static/media/TheAlternativeLendingReport_Middlemarch.ec9ef1da.pdf": "/static/media/TheAlternativeLendingReport_Middlemarch.ec9ef1da.pdf",
     "static/media/US Investors Seek International  Fintechs.1b763d73.pdf": "/static/media/US Investors Seek International  Fintechs.1b763d73.pdf",
     "static/media/UrbanFinancial-300w.261f2220.jpeg": "/static/media/UrbanFinancial-300w.261f2220.jpeg",
+    "static/media/afs-300w.96dd4c25.jpg": "/static/media/afs-300w.96dd4c25.jpg",
     "static/media/alternative_energy-dk.b90ad30c.svg": "/static/media/alternative_energy-dk.b90ad30c.svg",
     "static/media/alternative_finance-dk.d2c6a094.svg": "/static/media/alternative_finance-dk.d2c6a094.svg",
     "static/media/articles-lt.e1f47f2c.png": "/static/media/articles-lt.e1f47f2c.png",
@@ -63,7 +65,6 @@
     "static/media/cashedge-new.820ec0c0.jpg": "/static/media/cashedge-new.820ec0c0.jpg",
     "static/media/channel-300w.5862c0f3.jpeg": "/static/media/channel-300w.5862c0f3.jpeg",
     "static/media/ContactUs.css": "/static/media/coins.a7729163.png",
-    "static/media/creamfinance-2022.a5c781cd.jpg": "/static/media/creamfinance-2022.a5c781cd.jpg",
     "static/media/creditmax-new.29064933.jpg": "/static/media/creditmax-new.29064933.jpg",
     "static/media/currenex-new.d49a77b6.jpg": "/static/media/currenex-new.d49a77b6.jpg",
     "static/media/diversity-dk.5518422f.svg": "/static/media/diversity-dk.5518422f.svg",
@@ -106,6 +107,6 @@
     "static/css/2.038361d8.chunk.css",
     "static/js/2.a84f32d6.chunk.js",
     "static/css/main.5eb1aae2.chunk.css",
-    "static/js/main.7dc36c79.chunk.js"
+    "static/js/main.41c9169b.chunk.js"
   ]
 }
