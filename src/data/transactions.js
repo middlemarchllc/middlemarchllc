@@ -1,4 +1,4 @@
-import afs300w from '../images/transactions/afs-300w.jpeg';
+import afs300w from '../images/transactions/afs-300w.jpg';
 import sunseeker300w from '../images/transactions/sunseeker-300w.jpeg';
 import veransa300w from '../images/transactions/veransa-300w.jpeg';
 import skykick300w from '../images/transactions/skykick-300w.jpeg';
