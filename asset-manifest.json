@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5eb1aae2.chunk.css",
-    "main.js": "/static/js/main.41c9169b.chunk.js",
-    "main.js.map": "/static/js/main.41c9169b.chunk.js.map",
+    "main.js": "/static/js/main.d5d69523.chunk.js",
+    "main.js.map": "/static/js/main.d5d69523.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
     "static/css/2.038361d8.chunk.css": "/static/css/2.038361d8.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/AstorInvestment-300w.0e7fa9db.jpeg": "/static/media/AstorInvestment-300w.0e7fa9db.jpeg",
     "static/media/AvaFin-300w.5fd778ba.jpg": "/static/media/AvaFin-300w.5fd778ba.jpg",
     "static/media/Ballista-300w.a9a5d185.jpeg": "/static/media/Ballista-300w.a9a5d185.jpeg",
+    "static/media/Banks Tightening Creates Opportunities for Non-Banks.252667c9.pdf": "/static/media/Banks Tightening Creates Opportunities for Non-Banks.252667c9.pdf",
     "static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf": "/static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf",
     "static/media/CheckSmart-300w.176fd4e9.jpeg": "/static/media/CheckSmart-300w.176fd4e9.jpeg",
     "static/media/Creamfinance FINRA Approved MM Advises Creamfinance on 21 million Equity Raise.433b9746.pdf": "/static/media/Creamfinance FINRA Approved MM Advises Creamfinance on 21 million Equity Raise.433b9746.pdf",
@@ -25,6 +26,7 @@
     "static/media/DavidTanzer.66b92977.jpeg": "/static/media/DavidTanzer.66b92977.jpeg",
     "static/media/DemetrisPapademetriou.2aae91ab.jpeg": "/static/media/DemetrisPapademetriou.2aae91ab.jpeg",
     "static/media/DriveFactor-300w.00b03442.jpeg": "/static/media/DriveFactor-300w.00b03442.jpeg",
+    "static/media/ESG Fintech Article - MiddleMarch.22cad938.pdf": "/static/media/ESG Fintech Article - MiddleMarch.22cad938.pdf",
     "static/media/Elevate PR - Elevate Secures 25M Investment from Kayne Partners - 2019-06-17.efc418d6.pdf": "/static/media/Elevate PR - Elevate Secures 25M Investment from Kayne Partners - 2019-06-17.efc418d6.pdf",
     "static/media/EricHoerdemann.f84c5f23.jpeg": "/static/media/EricHoerdemann.f84c5f23.jpeg",
     "static/media/Evaluating and Managing Cyber Risk for Investors MM.2c4304e8.pdf": "/static/media/Evaluating and Managing Cyber Risk for Investors MM.2c4304e8.pdf",
@@ -107,6 +109,6 @@
     "static/css/2.038361d8.chunk.css",
     "static/js/2.a84f32d6.chunk.js",
     "static/css/main.5eb1aae2.chunk.css",
-    "static/js/main.41c9169b.chunk.js"
+    "static/js/main.d5d69523.chunk.js"
   ]
 }
