@@ -8,6 +8,7 @@ import n108 from '../news/news/FPAY-MM  PR Announcement 2015 03 17_Final.pdf';
 import n109 from '../news/news/MM Privlo Announcement Final 2014 08 12.pdf';
 import n110 from '../news/news/MM PR Announcement Final 2013 02 12.pdf';
 import n111 from '../news/news/CapFusion-MM  PR Announcement 2016 05 31.pdf';
+import a200 from '../news/articles/Banks Tightening Creates Opportunities for Non-Banks.pdf';
 import a201 from '../news/articles/Sustainability MMP Article 2022 01 20b.pdf';
 import a203 from '../news/articles/Middlemarch Capital seeks co-investment partners for fintech deals _ Debtwire.pdf';
 import a204 from '../news/articles/US Investors Seek International  Fintechs.pdf';
@@ -93,6 +94,13 @@ var newsarticles = [
     'Title': 'Capfusion Raises $60M of Debt',
     'Link': n111,
     'Summary': 'Capfusion raised $60M of debt from Main Street Financial to support the expansion of its SME lending program.'
+  },
+  {
+    'Type': 'ARTICLES',
+    'Sort': 2.00,
+    'Title': 'Bank Mini-Crisis Creates Opportunities',
+    'Link': a200,
+    'Summary': 'Demetris Papademetriou explains how bank mini-crisis creates opportunities for non-bank lenders to grab market share.'
   },
   {
     'Type': 'ARTICLES',
