@@ -53,19 +53,6 @@ var team = [
     ]
   },
   {
-    'id': 5,
-    'name': 'Alex Mack',
-    'title': 'CFO & CCO',
-    'email': 'amack@middlemarchllc.com',
-    'phone': '917-923-1478',
-    'linkedin': 'linkedin.com/in/alexmackcompliance',
-    'photo': AlexMack,
-    'expertise': 'Regulatory compliance and financial controls',
-    'paragraphs': [
-      'Mr. Mack is the CFO and CCO of Middlemarch Partners. He is responsible for the Firm\'s financial position and reporting, as well as the Firm\'s compliance with securities regulations. He has spent the past decade helping Broker Dealers with their financial and compliance responsibilities.', 'Since 2005, Mr. Mack has helped over a dozen private placement investment banks fulfill their financial and compliance obligations. He began his career as a systems analyst and operations consultant with companies such as Liz Claiborne, Calvin Klein, Price Waterhouse, Sony Music and Random House.', 'Mr. Mack received a Masters of Science in Management from The Sloan School of Business at MIT and a B.A. from Cornell University. He holds the Series 7, 24, 27, and 63 FINRA registrations.'
-    ]
-  },
-  {
     'id': 6,
     'name': 'David Tanzer',
     'title': 'MCP Investment Partner',
