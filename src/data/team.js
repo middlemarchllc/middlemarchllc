@@ -1,15 +1,13 @@
 import SashaGrutman from '../images/team/SashaGrutman.jpeg';
 import DemetrisPapademetriou from '../images/team/DemetrisPapademetriou.jpeg';
 import AlexKim from '../images/team/AlexKim.png';
-import OliverRothauser from '../images/team/OliverRothauser.jpeg';
-import AlexMack from '../images/team/AlexMack.jpeg';
 import DavidTanzer from '../images/team/DavidTanzer.jpeg';
 import FrankPorcelli from '../images/team/FrankPorcelli.jpeg';
-import PaulHatch from '../images/team/PaulHatch.jpeg';
 import JeffMiller from '../images/team/JeffMiller.jpeg';
 import PeterCieszko from '../images/team/PeterCieszko.jpeg';
 import DaveSchrohe from '../images/team/DaveSchrohe.jpeg';
 import EricHoerdemann from '../images/team/EricHoerdemann.jpeg';
+import JamieConstantine from '../images/team/JamieConstantine.jpg';
 
 
 var team = [
@@ -63,6 +61,22 @@ var team = [
     'expertise': 'Financial services, e-commerce, impact investing, healthcare, media, and executive management',
     'paragraphs': [
       'David Tanzer is a Partner of Middlemarch Capital Partners where he oversees the co-investment in Veransa. He has spent his 35 year career as a venture capital investor, a CEO of multiple private-equity-sponsored companies, and as a board member of fast-growing technology-enabled ventures.   ', 'Currently, Mr. Tanzer also operates Mercury FundingCo, LLC where he sources, develops, and provides funding to investments across a diverse range of sectors. As part of his efforts, he has led a $28M equity funding in Humanigen, Inc. (NASDAQ: HGEN) to help fund the Phase III trial of its anti-human GM-CSF monoclonal antibody medication Lenzilumab. He also led a $7.5M seed round for ecommerce personalization provider XGen.ai, where Mr. Tanzer serves as Executive Chairman. He has also made early-stage investments in companies involved with payment processing, cloud storage, ecommerce, B2B software, mental health, and NFTs.', 'Over the course of his career, Mr. Tanzer has been a strategic operating and business development executive specializing in transforming and accelerating the growth of media, direct marketing, healthcare services, and education companies using the latest digital technology and innovative marketing partnerships.  Mr. Tanzer has a diverse professional experience, including roles as CEO or President of eight companies, in industries including healthcare information, interactive commerce, digital advertising, educational technology, magazines, and home security. He has served on ten company boards and consulted to numerous private equity firms and corporate clients.', 'Mr. Tanzer graduated Harvard College, magna cum laude in Economics, and Harvard Business School, where he was a George F. Baker Scholar.'
+    ]
+  },
+  {
+    'id': 7,
+    'name': 'Jamie P. Constantine',
+    'title': 'Partner',
+    'email': 'jconstantine@middlemarchllc.com',
+    'phone': '312-995-2979',
+    'linkedin': 'linkedin.com/in/jamie-constantine-44083913',
+    'photo': JamieConstantine,
+    'expertise': 'Heathcare, technology-enabled services, and energy.',
+    'paragraphs': [
+      'Jamie P Constantine spent 35 years as a financial and family wealth advisor with Morgan Stanley and its predecessor firms.  He was named many times to the Morgan Stanley distinguished honor groups, including President\'s Club, Chairman\'s Club, Director\'s Council, and Master\'s Club.',
+      'Since leaving Morgan Stanley, Mr. Constantine has leveraged his experiences and super-connector abilities into advisory roles as an investment banker and business consultant. He focuses on health care, high-tech, and energy related companies, including green energy. He is passionate about helping young businesses on their growth path, from startup to B round capital investment both debt and equity.',
+      'In addition to his advocacy of private business owners and entrepreneurs, Mr. Constantine has been very active in community and educational groups, including nine years on the board (and three years as the chair) of the Iowa State University Research Foundation. He was also chair for two years of the Wine Fest Des Moines, during which prior donation amounts to support the Arts in Des Moines were surpassed.  He was on the board of the Bravo Greater Des Moines and for five years on the board of the Des Moines Metropolitan Opera.',
+      'Mr. Constantine graduated from Iowa State University where he was elected President of the Student Body. He holds a Series 7 and Series 63 FINRA Registrations.'
     ]
   },
   {
@@ -145,4 +159,4 @@ var team = [
   // },
 ];
 
-export {team};
+export { team };
