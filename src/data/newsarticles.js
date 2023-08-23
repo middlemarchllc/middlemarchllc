@@ -46,7 +46,7 @@ var newsarticles = [
     'Title': 'Creamfinace Raises €21M Euros',
     'Link': n104,
     'Summary': 'Creamfinance raised €21M Euros from Capitec Bank of South Africa to support the expansion of Cream\'s consumer lending programs in Europe and South America.'
-},
+  },
   {
     'Type': 'NEWS',
     'Sort': 1.05,
@@ -123,91 +123,126 @@ var newsarticles = [
     'Title': 'Middlemarch Seeks Co-Investors',
     'Link': a203,
     'Summary': 'Middlemarch Capital Partners seeks LP investors to participate in the firm\'s co-investment funds alongside lead sponsors'
-},
-{
-  'Type': 'ARTICLES',
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.04,
-      'Title': 'US Investors Seek International Fintechs',
-        'Link': a204,
-          'Summary': 'International fintechs that prepare themselves properly for capital raises can secure equity and debt from valued-added US investors '
-},
-{
-  'Type': 'ARTICLES',
+    'Title': 'US Investors Seek International Fintechs',
+    'Link': a204,
+    'Summary': 'International fintechs that prepare themselves properly for capital raises can secure equity and debt from valued-added US investors '
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.05,
-      'Title': 'Evaluating and Managing Cyber Risk ',
-        'Link': a205,
-          'Summary': 'Middlemarch Partner Sasha Grutman was intereviewed on the risks of cyber security in financial services'
-},
-{
-  'Type': 'ARTICLES',
+    'Title': 'Evaluating and Managing Cyber Risk ',
+    'Link': a205,
+    'Summary': 'Middlemarch Partner Sasha Grutman was intereviewed on the risks of cyber security in financial services'
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.06,
-      'Title': 'Customer Acqusition in Fin. Services',
-        'Link': a206,
-          'Summary': 'Middlemarch describes the best practices and challenges associated with managing customer acquisition expenses in financial services.'
-},
-{
-  'Type': 'ARTICLES',
+    'Title': 'Customer Acqusition in Fin. Services',
+    'Link': a206,
+    'Summary': 'Middlemarch describes the best practices and challenges associated with managing customer acquisition expenses in financial services.'
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.07,
-      'Title': 'Identifying LBO Candidates (Video)',
-        'Link': 'https://www.youtube.com/watch?v=ESsLk1vPGHM&list=PLc_3xizSvjgG56y3I4NQvXSnmFf3uczeu&index=2',
-          'Summary': 'Private Equity Profits Podcast interview of Sasha Grutman about his views on what makes for an attractive LBO candidate.'
-},
-{
-  'Type': 'ARTICLES',
+    'Title': 'Identifying LBO Candidates (Video)',
+    'Link': 'https://www.youtube.com/watch?v=ESsLk1vPGHM&list=PLc_3xizSvjgG56y3I4NQvXSnmFf3uczeu&index=2',
+    'Summary': 'Private Equity Profits Podcast interview of Sasha Grutman about his views on what makes for an attractive LBO candidate.'
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.08,
-      'Title': 'Securing Capital in the Covid-19 Era',
-        'Link': a208,
-          'Summary': 'Middlemarch identifies key success factors in capital raises for financial services companies seeking capital during the COVID-19 time period.'
-},
-{
-  'Type': 'ARTICLES',
+    'Title': 'Securing Capital in the Covid-19 Era',
+    'Link': a208,
+    'Summary': 'Middlemarch identifies key success factors in capital raises for financial services companies seeking capital during the COVID-19 time period.'
+  },
+  {
+    'Type': 'ARTICLES',
     'Sort': 2.09,
-      'Title': 'Market Reception of Public Fintechs',
-        'Link': a209,
-          'Summary': 'IPOs of fintechs such as Greensky and OnDeck Capital have had negative impacts on how alternative finance companies are perceived by institutional investors.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': 'Market Reception of Public Fintechs',
+    'Link': a209,
+    'Summary': 'IPOs of fintechs such as Greensky and OnDeck Capital have had negative impacts on how alternative finance companies are perceived by institutional investors.'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.01,
-      'Title': 'Opal Marketplace Lending Conference (Dec. 7-9, 2022)',
-        'Link': 'https://opalgroup.net/conference/marketplace-lending-alternative-financing-summit-2022/',
-          'Summary': 'Middlemarch will be participating as a speaker and look forward to engaging with companies attending the conference.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': 'Private Debt Investor Forum (9/6/23)',
+    'Link': 'https://www.peievents.com/en/event/pdi-new-york-forum/',
+    'Summary': 'Middlemarch will be participating at this forum and meeting with investors.'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.02,
-      'Title': 'Money 2020 Conference (Oct. 23-36, 2022)',
-        'Link': 'https://us.money2020.com',
-          'Summary': 'Middlemarch will be attending Money 2020 and will be meeting with clients, investors, and companies seeking growth capital.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': 'FinnovateFall (9/11/23)',
+    'Link': 'https://informaconnect.com/finovatefall/',
+    'Summary': 'Middlemarch will be attending this event in New York to meet with innovate FinTech companies disrupting the Financial Services industry'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.03,
-      'Title': '2022 LendIt (May 25-26, 2022)',
-        'Link': 'https://www.lendit.com/usa/2022',
-          'Summary': 'Middlemarch is attending LendIt and will be meeting with prospective clients and investors in New York.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': '2022 LendIt (May 25-26, 2022)',
+    'Link': 'https://www.lendit.com/usa/2022',
+    'Summary': 'Middlemarch is attending LendIt and will be meeting with prospective clients and investors in New York.'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.04,
-      'Title': 'Fintech MeetUp 2022',
-        'Link': 'https://www.fintechmeetup.com/?gclid=CjwKCAiAzrWOBhBjEiwAq85QZ_4BKM3WDIkGU86KGt3ANOCD0qfNhSbR4q8ZzcxvG_5ZE-90FLG_PBoCr70QAvD_BwE',
-          'Summary': 'Middlemarch is attending virtually this year\'s Fintech MeetUp where we look forward to connecting with companies seeking capital and support with M & A.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': 'ABS East (10/23/23)',
+    'Link': 'https://events.imn.org/event/eaf142c2-9754-4832-ab22-d93ef48cc7da/summary',
+    'Summary': 'Middlemarch will be attending ABS East in Miami to meet with investors and prospective clients.'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.05,
-      'Title': 'ABS East (Dec 13-14, 2021)',
-        'Link': 'https://www.imn.org/structured-finance/conference/ABS-East-2021/',
-          'Summary': 'Middlemarch is attending ABS East and meeting with prospective clients and investors in Miami.'
-},
-{
-  'Type': 'EVENTS',
+    'Title': 'Super Return North America (11/6/23)',
+    'Link': 'https://informaconnect.com/superreturn-north-america/',
+    'Summary': 'Middlemarch intends to participate in Super Return North America.'
+  },
+  {
+    'Type': 'EVENTS',
     'Sort': 3.06,
-      'Title': 'Opal Lending Conf. (Dec 8-10, 2021)',
-        'Link': 'https://opalgroup.net/conference/marketplace-lending-alternative-financing-summit-2021/',
-          'Summary': 'Middlemarch is participating on the venture capital panel as well as hosting a fireside chat about customer acquisition costs at the Makretplace Lending Conference.'
-},
+    'Title': 'Opal Marketplace Lending (12/5/23)',
+    'Link': 'https://opalgroup.net/conference/innovations-in-lending-alternative-financing-fintech-private-credit-summit-2023/',
+    'Summary': 'Middlemarch will be speaking at this conference in Dana Point, CA and will be introducing clients to potential investors.'
+  },
+  {
+    'Type': 'EVENTS',
+    'Sort': 3.07,
+    'Title': 'ABS West (12/5/23)',
+    'Link': 'https://opalgroup.net/conference/abs-summit-2023/',
+    'Summary': 'Middlemarch will be attending ABS West in Dana Point, CA to meet with investors and prospective clients.'
+  },
+  {
+    'Type': 'EVENTS',
+    'Sort': 3.08,
+    'Title': 'SFVegas (2/25/24)',
+    'Link': 'https://www.sfvegas.org/event/5dfe86c0-27c8-4190-baea-c01c6e2f77ef/summary',
+    'Summary': 'Middlemarch will be attending this structured finance conference to meet with both investors and prospective clients.'
+  },
+  {
+    'Type': 'EVENTS',
+    'Sort': 3.09,
+    'Title': 'Fintech MeetUp (3/4/24)',
+    'Link': 'https://fintechmeetup.com/',
+    'Summary': 'Middlemarch looks forward to the speed dating and networking at this Las Vegas event.'
+  },
+  {
+    'Type': 'EVENTS',
+    'Sort': 3.10,
+    'Title': 'Fintech Nexus (4/17/24)',
+    'Link': 'https://www.expostandzone.com/trade-shows/fintech-nexus',
+    'Summary': 'Middlemarch expects to meet with fast-growing early stage fintechs at this conference.'
+  },
+  {
+    'Type': 'EVENTS',
+    'Sort': 3.11,
+    'Title': 'Finovate (5/21/24)',
+    'Link': 'https://informaconnect.com/finovatespring/',
+    'Summary': 'Middlemarch expects to meet with fast-growing early stage fintechs at this conference.'
+  }
 ];
 
 export { newsarticles };
