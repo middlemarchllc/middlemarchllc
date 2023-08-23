@@ -183,62 +183,55 @@ var newsarticles = [
   {
     'Type': 'EVENTS',
     'Sort': 3.03,
-    'Title': '2022 LendIt (May 25-26, 2022)',
-    'Link': 'https://www.lendit.com/usa/2022',
-    'Summary': 'Middlemarch is attending LendIt and will be meeting with prospective clients and investors in New York.'
-  },
-  {
-    'Type': 'EVENTS',
-    'Sort': 3.04,
     'Title': 'ABS East (10/23/23)',
     'Link': 'https://events.imn.org/event/eaf142c2-9754-4832-ab22-d93ef48cc7da/summary',
     'Summary': 'Middlemarch will be attending ABS East in Miami to meet with investors and prospective clients.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.05,
+    'Sort': 3.04,
     'Title': 'Super Return North America (11/6/23)',
     'Link': 'https://informaconnect.com/superreturn-north-america/',
     'Summary': 'Middlemarch intends to participate in Super Return North America.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.06,
+    'Sort': 3.05,
     'Title': 'Opal Marketplace Lending (12/5/23)',
     'Link': 'https://opalgroup.net/conference/innovations-in-lending-alternative-financing-fintech-private-credit-summit-2023/',
     'Summary': 'Middlemarch will be speaking at this conference in Dana Point, CA and will be introducing clients to potential investors.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.07,
+    'Sort': 3.06,
     'Title': 'ABS West (12/5/23)',
     'Link': 'https://opalgroup.net/conference/abs-summit-2023/',
     'Summary': 'Middlemarch will be attending ABS West in Dana Point, CA to meet with investors and prospective clients.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.08,
+    'Sort': 3.07,
     'Title': 'SFVegas (2/25/24)',
     'Link': 'https://www.sfvegas.org/event/5dfe86c0-27c8-4190-baea-c01c6e2f77ef/summary',
     'Summary': 'Middlemarch will be attending this structured finance conference to meet with both investors and prospective clients.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.09,
+    'Sort': 3.08,
     'Title': 'Fintech MeetUp (3/4/24)',
     'Link': 'https://fintechmeetup.com/',
     'Summary': 'Middlemarch looks forward to the speed dating and networking at this Las Vegas event.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.10,
+    'Sort': 3.09,
     'Title': 'Fintech Nexus (4/17/24)',
     'Link': 'https://www.expostandzone.com/trade-shows/fintech-nexus',
     'Summary': 'Middlemarch expects to meet with fast-growing early stage fintechs at this conference.'
   },
   {
     'Type': 'EVENTS',
-    'Sort': 3.11,
+    'Sort': 3.10,
     'Title': 'Finovate (5/21/24)',
     'Link': 'https://informaconnect.com/finovatespring/',
     'Summary': 'Middlemarch expects to meet with fast-growing early stage fintechs at this conference.'
