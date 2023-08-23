@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5eb1aae2.chunk.css",
-    "main.js": "/static/js/main.b2a9c7a8.chunk.js",
-    "main.js.map": "/static/js/main.b2a9c7a8.chunk.js.map",
+    "main.js": "/static/js/main.70c207a3.chunk.js",
+    "main.js.map": "/static/js/main.70c207a3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
     "static/css/2.038361d8.chunk.css": "/static/css/2.038361d8.chunk.css",
@@ -14,7 +14,6 @@
     "static/js/2.a84f32d6.chunk.js.LICENSE.txt": "/static/js/2.a84f32d6.chunk.js.LICENSE.txt",
     "static/media/AM-opinion-Tech-Lend-080919 sg.3a1cfee2.pdf": "/static/media/AM-opinion-Tech-Lend-080919 sg.3a1cfee2.pdf",
     "static/media/AlexKim.4046f89d.png": "/static/media/AlexKim.4046f89d.png",
-    "static/media/AlexMack.46248456.jpeg": "/static/media/AlexMack.46248456.jpeg",
     "static/media/AstorInvestment-300w.0e7fa9db.jpeg": "/static/media/AstorInvestment-300w.0e7fa9db.jpeg",
     "static/media/AvaFin-300w.5fd778ba.jpg": "/static/media/AvaFin-300w.5fd778ba.jpg",
     "static/media/Ballista-300w.a9a5d185.jpeg": "/static/media/Ballista-300w.a9a5d185.jpeg",
@@ -34,6 +33,7 @@
     "static/media/FPAY-MM  PR Announcement 2015 03 17_Final.404d92d3.pdf": "/static/media/FPAY-MM  PR Announcement 2015 03 17_Final.404d92d3.pdf",
     "static/media/FlexShopper-300w.aece7fe3.jpeg": "/static/media/FlexShopper-300w.aece7fe3.jpeg",
     "static/media/FrankPorcelli.68c07431.jpeg": "/static/media/FrankPorcelli.68c07431.jpeg",
+    "static/media/JamieConstantine.853d4dcc.jpg": "/static/media/JamieConstantine.853d4dcc.jpg",
     "static/media/JeffMiller.d8561259.jpeg": "/static/media/JeffMiller.d8561259.jpeg",
     "static/media/Knight-300w.be07d0e3.jpeg": "/static/media/Knight-300w.be07d0e3.jpeg",
     "static/media/MCP Veransa Announcement 2021 12 16.459dde4a.pdf": "/static/media/MCP Veransa Announcement 2021 12 16.459dde4a.pdf",
@@ -43,8 +43,6 @@
     "static/media/Middlemarch Capital seeks co-investment partners for fintech deals _ Debtwire.f677d552.pdf": "/static/media/Middlemarch Capital seeks co-investment partners for fintech deals _ Debtwire.f677d552.pdf",
     "static/media/Mutuo Press Release -2021 12 19.62548fd9.pdf": "/static/media/Mutuo Press Release -2021 12 19.62548fd9.pdf",
     "static/media/NexisCard-300w.3d23d6a0.jpeg": "/static/media/NexisCard-300w.3d23d6a0.jpeg",
-    "static/media/OliverRothauser.75c512b8.jpeg": "/static/media/OliverRothauser.75c512b8.jpeg",
-    "static/media/PaulHatch.a39ff9c8.jpeg": "/static/media/PaulHatch.a39ff9c8.jpeg",
     "static/media/PeterCieszko.71425bc6.jpeg": "/static/media/PeterCieszko.71425bc6.jpeg",
     "static/media/Photonic-300w.3be4a477.jpeg": "/static/media/Photonic-300w.3be4a477.jpeg",
     "static/media/SashaGrutman.4edf3005.jpeg": "/static/media/SashaGrutman.4edf3005.jpeg",
@@ -109,6 +107,6 @@
     "static/css/2.038361d8.chunk.css",
     "static/js/2.a84f32d6.chunk.js",
     "static/css/main.5eb1aae2.chunk.css",
-    "static/js/main.b2a9c7a8.chunk.js"
+    "static/js/main.70c207a3.chunk.js"
   ]
 }
