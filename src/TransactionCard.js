@@ -35,7 +35,7 @@ const TransactionCard = (props) => {
                       </div>
                       <div className="test1">
                       <h4 className="card-title">Amount Raised</h4>
-                        <h4 className="txn-amount">{props.name === "Cream Finance" ? '€ ' : '$ '} {props.amount}</h4>
+                        <h4 className="txn-amount">{props.amount}</h4>
                       </div>
                     </div>
                   }
