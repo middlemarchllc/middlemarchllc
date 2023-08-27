@@ -58,7 +58,7 @@ const NewsModal = (props) => {
               <Overlay
                 show={show}
                 target={target}
-                placement="top"
+                placement="bottom"
                 container={ref}
                 containerPadding={20}
               >
