@@ -224,7 +224,7 @@ const ContactUs = (props) => {
                 <div style={{ display: "inline", textDecoration: "underline" }}>
                   <a href="https://files.brokercheck.finra.org/crs_283508.pdf"><em>FINRA Form CRS</em></a></div>
                 <div style={{ marginTop: "1rem" }}><em>Material on this website has been prepared as a matter of general information. Middlemarch and its affiliates, employees, and clients may have recently established or disposed of, or may be establishing or disposing of, positions in securities mentioned. (Middlemarch Securities, LLC 2017)</em></div>
-                <div className="copywright"><em>©  2022 Copyright Middlemarch Partners LLC. All Rights Reserved.</em></div>
+                <div className="copywright"><em>©  2023 Copyright Middlemarch Partners LLC. All Rights Reserved.</em></div>
               </div>
             </Col>
           </Row>
