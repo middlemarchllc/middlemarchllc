@@ -8,6 +8,7 @@ import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import React, { useState } from 'react';
 import Backendless from 'backendless';
+import bcps from './news/other/BCP Disclosure Summary MMS V1.pdf';
 
 Backendless.initApp('3F6FD799-4DA3-DCEA-FFA6-A9D2380E0C00', 'F5CD099F-5472-4A4A-872E-D4432A045F68')
 
@@ -221,8 +222,7 @@ const ContactUs = (props) => {
                 </div>
                 <div style={{ display: "inline", textDecoration: "underline" }}><a href="https://brokercheck.finra.org/firm/summary/283508"><em>BrokerCheck</em></a></div>
                 <div style={{ display: "inline" }}>&nbsp;&nbsp;|&nbsp;&nbsp;</div>
-                <div style={{ display: "inline", textDecoration: "underline" }}>
-                  <a href="https://files.brokercheck.finra.org/crs_283508.pdf"><em>FINRA Form CRS</em></a></div>
+                <div style={{ display: "inline", textDecoration: "underline" }}><a href={bcps}><em>Business Continuity Plan Summary</em></a></div>
                 <div style={{ marginTop: "1rem" }}><em>Material on this website has been prepared as a matter of general information. Middlemarch and its affiliates, employees, and clients may have recently established or disposed of, or may be establishing or disposing of, positions in securities mentioned. (Middlemarch Securities, LLC 2017)</em></div>
                 <div className="copywright"><em>©  2023 Copyright Middlemarch Partners LLC. All Rights Reserved.</em></div>
               </div>
