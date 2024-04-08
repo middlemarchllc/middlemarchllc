@@ -11,6 +11,7 @@ Go to Github Pages [Github Pages](https://github.com/middlemarchllc/middlemarchl
 Make sure "middlemarchllc.com" is in the Custom Domain
 If not, add it (without quotes) and click Save
 Check the Actions to see if it is deployed
+If not, npm run deploy
 When deployed make sure the webite is up and running
 
 ## Available Scripts
