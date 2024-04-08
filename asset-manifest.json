@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e375ea9e.chunk.css",
-    "main.js": "/static/js/main.8028ee9c.chunk.js",
-    "main.js.map": "/static/js/main.8028ee9c.chunk.js.map",
+    "main.js": "/static/js/main.a2bbb13e.chunk.js",
+    "main.js.map": "/static/js/main.a2bbb13e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a06e69b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a06e69b5.js.map",
     "static/css/2.038361d8.chunk.css": "/static/css/2.038361d8.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/AlexKim.4046f89d.png": "/static/media/AlexKim.4046f89d.png",
     "static/media/AstorInvestment-300w.0e7fa9db.jpeg": "/static/media/AstorInvestment-300w.0e7fa9db.jpeg",
     "static/media/AvaFin-300w.5fd778ba.jpg": "/static/media/AvaFin-300w.5fd778ba.jpg",
+    "static/media/BCP Disclosure Summary MMS V1.47eacbd5.pdf": "/static/media/BCP Disclosure Summary MMS V1.47eacbd5.pdf",
     "static/media/Ballista-300w.a9a5d185.jpeg": "/static/media/Ballista-300w.a9a5d185.jpeg",
     "static/media/Banks Tightening Creates Opportunities for Non-Banks.252667c9.pdf": "/static/media/Banks Tightening Creates Opportunities for Non-Banks.252667c9.pdf",
     "static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf": "/static/media/CapFusion-MM  PR Announcement 2016 05 31.d61e706b.pdf",
@@ -107,6 +108,6 @@
     "static/css/2.038361d8.chunk.css",
     "static/js/2.a84f32d6.chunk.js",
     "static/css/main.e375ea9e.chunk.css",
-    "static/js/main.8028ee9c.chunk.js"
+    "static/js/main.a2bbb13e.chunk.js"
   ]
 }
