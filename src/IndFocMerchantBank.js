@@ -61,7 +61,7 @@ const IndFocMerchantBank = (props) => {
                   <div>
                     <Image className="mb-row2-col1-img" src={impInvesting} alt="Financial Services" />
                     <h2 className="mb-row2-col1-h3">Impact Investing</h2>
-                    <div className="mb-row2-col1-p">High-Growth, High-Profit Margin Businesses that Support Positive Environmental, Social, and Governance Ojectives</div>
+                    <div className="mb-row2-col1-p">High-Growth, High-Profit Margin Businesses that Support Positive Environmental, Social, and Governance Objectives</div>
                   </div>
                 </Row>
 
@@ -144,7 +144,7 @@ const IndFocMerchantBank = (props) => {
                   <Col xs={10} md={10}>
                     <div><h2 className="mb-heading-2">Impact Investing</h2></div>
                     <div className="mb-text-2">
-                      High-Growth, High-Profit Margin Businesses that Support Positive Environmental, Social, and Governance Ojectives
+                      High-Growth, High-Profit Margin Businesses that Support Positive Environmental, Social, and Governance Objectives
                     </div>
                   </Col>
                 </Row>

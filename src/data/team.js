@@ -4,10 +4,12 @@ import AlexKim from '../images/team/AlexKim.png';
 import DavidTanzer from '../images/team/DavidTanzer.jpeg';
 import FrankPorcelli from '../images/team/FrankPorcelli.jpeg';
 import JeffMiller from '../images/team/JeffMiller.jpeg';
-import PeterCieszko from '../images/team/PeterCieszko.jpeg';
+import GrangeJohnson from '../images/team/GrangeJohnson.jpg';
+import PederHanssen from '../images/team/PederHanssen.jpg';
 import DaveSchrohe from '../images/team/DaveSchrohe.jpeg';
 import EricHoerdemann from '../images/team/EricHoerdemann.jpeg';
 import JamieConstantine from '../images/team/JamieConstantine.jpg';
+import MarkFinckle from '../images/team/MarkFinckle.jpg';
 
 
 var team = [
@@ -21,7 +23,7 @@ var team = [
     'photo': SashaGrutman,
     'expertise': 'Alternative finance, electronic financial services, transaction processing, technology-enabled business services, and renewable resources businesses',
     'paragraphs': [
-      'Mr. Grutman is a founder of Middlemarch Partners and co-leads the firm\'s merchant banking and investing efforts. He has spent his entire 33-year career investing in and advising high-growth financial services and business services companies that leverage technology to create sustainable advantage.', 'At Middlemarch, Mr. Grutman advises clients on business and capital strategy issues, has sourced over $1.6B of capital for clients and has served as a board member for several Middlemarch clients and Middlemarch Capital Partners portfolio companies. Active with both private and public companies, he has participated in over $3.5B of transactions over the course of his career as a merchant banker and private equity investor.', 'Prior to founding Middlemarch Partners, Mr. Grutman served as a Partner at TH Lee Putnam Ventures, a $1B growth equity fund, where he co-led the firm\'s financial services investments in specialty finance, insurance services, and electronic capital markets investments. Previously, he was a Managing Director at Citigroup where he oversaw the firm\'s on balance sheet financial services private equity holdings as well as managed the bank\'s $6B private equity fund-of-funds business. He has also held private equity investment roles at Goldman Sachs and Frontline Capital. He began his career at The Boston Consulting Group in its Financial Services and e-Commerce Practices.', 'Mr. Grutman received an MBA from the Wharton School where he majored in Finance. He was a Fulbright Scholar in Italy where he pursued independent research on Dante. He graduated from Yale University magna cum laude with a BA in Humanities. He holds Series 7, 63, 79, 24 and 65 FINRA registrations.'
+      'Mr. Grutman is a founder of Middlemarch Partners and co-leads the firm\'s merchant banking and investing efforts. He has spent his entire 33-year career investing in and advising high-growth financial services and business services companies that leverage technology to create sustainable advantage.', 'At Middlemarch, Mr. Grutman advises clients on business and capital strategy issues, has sourced over $1.7B of capital for clients and has served as a board member for several Middlemarch clients and Middlemarch Capital Partners portfolio companies. Active with both private and public companies, he has participated in over $3.5B of transactions over the course of his career as a merchant banker and private equity investor.', 'Prior to founding Middlemarch Partners, Mr. Grutman served as a Partner at TH Lee Putnam Ventures, a $1B growth equity fund, where he co-led the firm\'s financial services investments in specialty finance, insurance services, and electronic capital markets investments. Previously, he was a Managing Director at Citigroup where he oversaw the firm\'s on balance sheet financial services private equity holdings as well as managed the bank\'s $6B private equity fund-of-funds business. He has also held private equity investment roles at Goldman Sachs and Frontline Capital. He began his career at The Boston Consulting Group in its Financial Services and e-Commerce Practices.', 'Mr. Grutman received an MBA from the Wharton School where he majored in Finance. He was a Fulbright Scholar in Italy where he pursued independent research on Dante. He graduated from Yale University magna cum laude with a BA in Humanities. He holds Series 7, 63, 79, 24 and 65 FINRA registrations.'
     ]
   },
   {
@@ -34,7 +36,7 @@ var team = [
     'photo': DemetrisPapademetriou,
     'expertise': 'Alternative finance, electronic financial services, transaction processing, and technology-enabled business services',
     'paragraphs': [
-      'Mr. Papademetriou is a founder of Middlemarch Partners and co-leads the firm\'s merchant banking and investing efforts. He has spent over 28 years investing, advising, and operating high-growth financial business services companies across the payments, specialty lending, capital markets, and insurance sectors.', 'Mr. Papademetriou is an active investor and advisor to financial services companies with a particular focus on financial technology opportunities, having raised over $1.6B for clients. Because of his operating and financial experience, he also serves as a board member for a number of Middlemarch Capital Partners\' portfolio companies. Prior to founding Middlemarch, he was a Director at Knight Capital Group, a global trading firm, where he was responsible for originating, evaluating, and executing strategic investment opportunities and M&A with the mortgage-backed securities, equities, foreign exchange, and derivatives desks both in the US and in Europe.', 'He also served as the Head of Strategy and Corporate Development for CashEdge, Inc., a financial services transaction and risk management software company, where he focused on capital raising, M&A, and new product development. CashEdge was sold to Fiserv (FISV) for $465M in 2011. Earlier in his career, Demetris worked at Swiss Re Capital Partners, the $5B AUM Merchant Banking and Private Equity division of Swiss Re.', 'Mr. Papademetriou graduated from the Honors Program in Engineering and Management, receiving both a BS in Engineering from Northwestern University and an MBA from the Kellogg School of Management. He holds Series 7, 63, 79, 24 and 65 FINRA registrations.'
+      'Mr. Papademetriou is a founder of Middlemarch Partners and co-leads the firm\'s merchant banking and investing efforts. He has spent over 28 years investing, advising, and operating high-growth financial business services companies across the payments, specialty lending, capital markets, and insurance sectors.', 'Mr. Papademetriou is an active investor and advisor to financial services companies with a particular focus on financial technology opportunities, having raised over $1.7B for clients. Because of his operating and financial experience, he also serves as a board member for a number of Middlemarch Capital Partners\' portfolio companies. Prior to founding Middlemarch, he was a Director at Knight Capital Group, a global trading firm, where he was responsible for originating, evaluating, and executing strategic investment opportunities and M&A with the mortgage-backed securities, equities, foreign exchange, and derivatives desks both in the US and in Europe.', 'He also served as the Head of Strategy and Corporate Development for CashEdge, Inc., a financial services transaction and risk management software company, where he focused on capital raising, M&A, and new product development. CashEdge was sold to Fiserv (FISV) for $465M in 2011. Earlier in his career, Demetris worked at Swiss Re Capital Partners, the $5B AUM Merchant Banking and Private Equity division of Swiss Re.', 'Mr. Papademetriou graduated from the Honors Program in Engineering and Management, receiving both a BS in Engineering from Northwestern University and an MBA from the Kellogg School of Management. He holds Series 7, 63, 79, 24 and 65 FINRA registrations.'
     ]
   },
   {
@@ -51,16 +53,40 @@ var team = [
     ]
   },
   {
+    'id': 4,
+    'name': 'Peder Hanssen',
+    'title': 'Partner',
+    'email': 'phanssen@middlemarchllc.com',
+    'phone': '917-859-7368',
+    'linkedin': 'linkedin.com/in/peder-e-hanssen-362405',
+    'photo': PederHanssen,
+    'expertise': 'TBD',
+    'paragraphs': ['Peder E. Hanssen is a member of Middlemarch Securities. He has spent the last 15 years working in the financial services industry, mainly focusing on asset-based financings in the infrastructure, maritime and energy sectors.', 'Over the last several years Mr. Hanssen has originated, structured and syndicated major financings for infrastructure projects in Europe and North America, assisting in raising in excess of US$3.0 billion for various projects and companies, including for wind farms, maritime vessels, storage terminals and road tunnels.', 'Prior to joining Middlemarch Securities, Mr. Hanssen was a Partner at Pareto Securities, a Nordic broker-dealer, where he worked for 9 years and focused mainly on fixed income products for the infrastructure sector. Prior to that he worked for DNB Bank, a Nordic maritime bank, where he focused on lending and debt capital markets origination and syndication.', 'Mr. Hanssen was educated at Royal Holloway, University of London (BSc), the London School of Economics (MSc), and has an MBA from INSEAD. He holds the Series 7, 63 and 79 FINRA Registrations.'
+    ]
+  },
+  {
+    'id': 5,
+    'name': 'Mark Finckle',
+    'title': 'Partner',
+    'email': 'mfinckle@middlemarchllc.com',
+    'phone': '',
+    'linkedin': 'linkedin.com/in/mark-finckle',
+    'photo': MarkFinckle,
+    'expertise': 'TBD',
+    'paragraphs': ['Mr. Finckle is an experienced financial executive with a diverse background in investment banking, strategic advisory, and corporate finance. As an investment banker, he has led over 200 financing transactions, raising more than $3 billion in capital, and has played a key role in sourcing and executing numerous mergers and acquisitions.', 'Mr. Finckle began his career as a Certified Public Accountant with PricewaterhouseCoopers, gaining valuable insights into financial analysis and management. Mr. Finckle then transitioned into corporate strategy, serving as Director of Strategy at Ameritech, a Fortune 500 telecommunications company, where he helped drive key business initiatives in the wireless space.', 'Mr. Finckle began his investment banking career as a technology banker with PaineWebber. He further advanced his career by holding senior investment banking positions at Bear Stearns and later leading the Telecom Investment Banking Group at Thomas Weisel Partners.', 'Mr. Finckle then headed the Investment Banking Group at Advanced Equities, a Chicago-based boutique investment banking firm, where he specialized in raising capital for portfolio companies backed by some of the most prominent venture capital firms in the US, including Kleiner Perkins, NEA, Khosla Ventures, and Benchmark. He continued his career at Paulson Investment Company, LLC, a respected investment banking firm focused on small to mid-cap markets, where he ran the investment banking department and led a variety of strategic financial initiatives for clients.', 'For the past five years, Mr.Finckle has led his own financial consulting firm, providing expert advice and strategic guidance to companies across multiple industries.', 'Mr.Finckle holds a B.S.from the University of Iowa and an MBA from the Kellogg Graduate School of Management.He holds Series 7, 63, and 79 FINRA registrations.'
+    ]
+  },
+  {
     'id': 6,
-    'name': 'David Tanzer',
-    'title': 'MCP Investment Partner',
-    'email': 'dtanzer@middlemarchllc.com',
-    'phone': '917-692-6702',
-    'linkedin': 'linkedin.com/in/david-tanzer-43259a',
-    'photo': DavidTanzer,
-    'expertise': 'Financial services, e-commerce, impact investing, healthcare, media, and executive management',
-    'paragraphs': [
-      'David Tanzer is a Partner of Middlemarch Capital Partners where he oversees the co-investment in Veransa. He has spent his 35 year career as a venture capital investor, a CEO of multiple private-equity-sponsored companies, and as a board member of fast-growing technology-enabled ventures.   ', 'Currently, Mr. Tanzer also operates Mercury FundingCo, LLC where he sources, develops, and provides funding to investments across a diverse range of sectors. As part of his efforts, he has led a $28M equity funding in Humanigen, Inc. (NASDAQ: HGEN) to help fund the Phase III trial of its anti-human GM-CSF monoclonal antibody medication Lenzilumab. He also led a $7.5M seed round for ecommerce personalization provider XGen.ai, where Mr. Tanzer serves as Executive Chairman. He has also made early-stage investments in companies involved with payment processing, cloud storage, ecommerce, B2B software, mental health, and NFTs.', 'Over the course of his career, Mr. Tanzer has been a strategic operating and business development executive specializing in transforming and accelerating the growth of media, direct marketing, healthcare services, and education companies using the latest digital technology and innovative marketing partnerships.  Mr. Tanzer has a diverse professional experience, including roles as CEO or President of eight companies, in industries including healthcare information, interactive commerce, digital advertising, educational technology, magazines, and home security. He has served on ten company boards and consulted to numerous private equity firms and corporate clients.', 'Mr. Tanzer graduated Harvard College, magna cum laude in Economics, and Harvard Business School, where he was a George F. Baker Scholar.'
+    'name': 'Grange Johnson',
+    'title': 'Partner',
+    'email': 'gjohnson@middlemarchllc.com',
+    'phone': '917-509-0658',
+    'linkedin': 'linkedin.com/in/grange-johnson-283578b0',
+    'photo': GrangeJohnson,
+    'expertise': 'Distressed debt, special situations equity, and event-driven investments',
+    'paragraphs': ['Mr. Johnson is a Partner at Middlemarch Partners, a merchant banking boutique. He is also the CEO of FLJ Capital, an event-driven investment and advisory firm specializing in distressed debt and special situations equity, which he founded in 2017.', 'At Middlemarch, Mr. Johnson brings extensive experience in investment and advisory services, having served in various high-profile roles throughout his career. From 2023 to 2024, he was the Deputy CIO of Appomattox Advisory, a leader in the outsourced CIO space. During 2022 to 2023, he served as a Managing Director in charge of Special Situations Investment Banking at BTIG, where he covered debt/equity capital markets, private placements, restructurings, and sponsor coverage.', 'Before joining Middlemarch, Mr. Johnson held significant positions in the investment banking and asset management sectors. From 2019 to 2020, he was a Managing Director at Gamco Investors Inc., a $30+ billion asset manager, where he built a distressed securities business reporting directly to Mario Gabelli. Prior to that, he led LaGrange Capital Partners, a fund he founded in 2000, achieving a net return of 24% through March 2007. His fund was ranked by Bloomberg Markets Magazine and Barron\'s for its high performance among event- driven managers.', 'Earlier in his career, Mr. Johnson co-founded and co-managed the CoMac Opportunities Fund, investing in post-bankruptcy and special situation equities. He also worked as an analyst at Chesapeake Partners and Perry Partners, focusing on distressed securities and risk arbitrage, and as a management consultant at McKinsey & Company. He began his career in the restructuring group of Merrill Lynch\'s Investment Banking division.',
+      'Mr. Johnson has served on the Board of Directors and Audit Committee of 1-800-Contacts, leading its sale to WellPoint for a 10x return, and was Executive Chairman of the Board of Forward Industries following a successful activist campaign.', 'Mr. Johnson holds a BA from Brown University and an MBA from Columbia Business School, where he was elected to the Beta Gamma Sigma honor society. He has also been a guest lecturer and evaluated student investment ideas as part of Columbia\'s value investing program.'
     ]
   },
   {
@@ -81,8 +107,21 @@ var team = [
   },
   {
     'id': 8,
+    'name': 'David Tanzer',
+    'title': 'MCP Investment Partner',
+    'email': 'dtanzer@middlemarchllc.com',
+    'phone': '917-692-6702',
+    'linkedin': 'linkedin.com/in/david-tanzer-43259a',
+    'photo': DavidTanzer,
+    'expertise': 'Financial services, e-commerce, impact investing, healthcare, media, and executive management',
+    'paragraphs': [
+      'David Tanzer is a Partner of Middlemarch Capital Partners where he oversees the co-investment in Veransa. He has spent his 35 year career as a venture capital investor, a CEO of multiple private-equity-sponsored companies, and as a board member of fast-growing technology-enabled ventures.   ', 'Currently, Mr. Tanzer also operates Mercury FundingCo, LLC where he sources, develops, and provides funding to investments across a diverse range of sectors. As part of his efforts, he has led a $28M equity funding in Humanigen, Inc. (NASDAQ: HGEN) to help fund the Phase III trial of its anti-human GM-CSF monoclonal antibody medication Lenzilumab. He also led a $7.5M seed round for ecommerce personalization provider XGen.ai, where Mr. Tanzer serves as Executive Chairman. He has also made early-stage investments in companies involved with payment processing, cloud storage, ecommerce, B2B software, mental health, and NFTs.', 'Over the course of his career, Mr. Tanzer has been a strategic operating and business development executive specializing in transforming and accelerating the growth of media, direct marketing, healthcare services, and education companies using the latest digital technology and innovative marketing partnerships.  Mr. Tanzer has a diverse professional experience, including roles as CEO or President of eight companies, in industries including healthcare information, interactive commerce, digital advertising, educational technology, magazines, and home security. He has served on ten company boards and consulted to numerous private equity firms and corporate clients.', 'Mr. Tanzer graduated Harvard College, magna cum laude in Economics, and Harvard Business School, where he was a George F. Baker Scholar.'
+    ]
+  },
+  {
+    'id': 9,
     'name': 'Frank Porcelli',
-    'title': 'Partner',
+    'title': 'Senior Advisor',
     'email': 'fporcelli@convergency-partners.com',
     'phone': '<NEED PHONE>',
     'linkedin': 'linkedin.com/in/frank-porcelli-318a3378',
@@ -95,7 +134,7 @@ var team = [
   {
     'id': 10,
     'name': 'Jeff Miller',
-    'title': 'Partner',
+    'title': 'Senior Advisor',
     'email': 'jmiller@convergency-partners.com',
     'phone': '617-834-2262',
     'linkedin': 'linkedin.com/in/jeffmiller2020',
@@ -107,21 +146,8 @@ var team = [
   },
   {
     'id': 11,
-    'name': 'Peter Cieszko',
-    'title': 'Partner',
-    'email': 'pcieszko@convergency-partners.com',
-    'phone': '917-756-7345',
-    'linkedin': 'linkedin.com/in/peter-cieszko',
-    'photo': PeterCieszko,
-    'expertise': 'Asset management, investment management, product innovation, business development, and distribution strategies',
-    'paragraphs': [
-      'Peter Cieszko is a member of Middlemarch and a Partner in Convergency Partners. He recently retired as the Head of Strategic Development for American Century Investments, where he greatly contributed to the growth of the organization across all client channels through existing and new strategic partnerships.', 'Mr. Cieszko leverages his extensive industry relationships to deliver value to clients and the firm. He has developed relationships with professional buyers, wirehouses, regional and independent advisors, RIAs, banks and insurance companies. ', 'Mr. Cieszko came to American Century Investments from Fidelity Investments Institutional Services Company, where he served as President of the business unit that provides investment management services to financial institutions. Prior to Fidelity, he was President and Chief Executive Officer of Evergreen Investments, the investment management arm of Wachovia/WellsFargo. At Evergreen he also served as President of Global Distribution, where he was responsible for the firm\'s distribution, product and long-term growth strategies. ', 'Mr. Cieszko joined Evergreen from Legg Mason, where he was Head of U.S. Distribution and also served as Head of the U.S. retail and high-net worth businesses of Legg Mason\'s predecessor firm Citigroup Asset Management. Throughout his 35-year financial services career, Mr. Cieszko has held various senior leadership positions with Nuveen Investments, Montgomery Asset Management, E.F. Hutton & Company and Merrill Lynch.', 'Mr. Cieszko graduated from Villanova University with a bachelor’s degree in business administration. He serves on the board of directors of the Insured Retirement Institute (IRI), Invest in Others Charitable Foundation, as well as various boards and leadership positions within Catholic Charities. '
-    ]
-  },
-  {
-    'id': 12,
     'name': 'David Schrohe',
-    'title': 'Partner',
+    'title': 'Senior Advisor',
     'email': 'dschrohe@convergency-partners.com',
     'phone': '917-453-0555',
     'linkedin': 'linkedin.com/in/dave-schrohe-3241135',
@@ -132,9 +158,9 @@ var team = [
     ]
   },
   {
-    'id': 13,
+    'id': 12,
     'name': 'Eric Hoerdemann',
-    'title': 'Partner',
+    'title': 'Senior Advisor',
     'email': 'ehoerdemann@convergency-partners.com',
     'phone': '267-999-9170',
     'linkedin': 'linkedin.com/in/eric-hoerdemann-1a36933',
@@ -143,20 +169,7 @@ var team = [
     'paragraphs': [
       'Eric Hoerdemann is a member of Middlemarch and a Partner in Convergency Partners. During his two decade plus career Eric Hoerdemann has reviewed thousands of strategies across all asset classes. A primary focus throughout his career has been identifying early-stage investment talent and building a business around them.  Mr. Hoerdemann was the first institutional capital into a number of highly successful multi-billion dollar teams. He has played an instrumental role in business development and capital raising particularly at the manager\'s early lifecycle.  He has a professional and personal passion for technology and built manager due diligence analytical tools used at his prior firms. He also founded an online marketplace in 2000 and advises technology-oriented venture capital firms including Cambium Capital.', 'Most recently, for the last eight years Mr. Hoerdemann was a partner with Stride Capital, a seeding firm based in Stamford CT where he was responsible for identifying and taking strategic stakes in early-stage asset managers.  Prior to joining Stride, he spent seven years as Senior Portfolio Manager and leader of the small cap equity team at SEI, responsible for directing $5 billion in investments to 25 external managers.  He was also a rotating member of SEI\'s firmwide investment committee, which oversaw over $100 billion of invested capital.  Prior to SEI, Mr. Hoerdemann spent five years at Goldman Sachs where he was a Vice President responsible for over $10 billion invested in non-U.S. and global equity managers. He began his investment career in the asset allocation team at SEI.', 'Mr. Hoerdemann graduated magna cum laude from Lehigh University and is a CFA Charterholder. '
     ]
-  },
-  // {
-  //   'id': 15,
-  //   'name': '',
-  //   'title': '',
-  //   'email': 'mailto:',
-  //   'phone': '',
-  //   'linkedin': '',
-  //   'photo': '',
-  //   'expertise': '',
-  //   'paragraphs': [
-  //     ''
-  //   ]
-  // },
+  }
 ];
 
 export { team };
