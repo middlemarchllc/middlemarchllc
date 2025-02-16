@@ -1,7 +1,7 @@
 import React from 'react';
 import './Landing.css';
 import logo from './images/logo.png';
-import mmpartners from './images/mmpartners-wb.png';
+import mmpartners from './images/mmpartners-wb-min.png';
 
 const Landing = () => {
 

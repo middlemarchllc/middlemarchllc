@@ -1,34 +1,45 @@
-import afs300w from '../images/transactions/afs-300w-white.jpg';
-import sunseeker300w from '../images/transactions/sunseeker-300w.jpeg';
-import veransa300w from '../images/transactions/veransa-300w.jpeg';
-import skykick300w from '../images/transactions/skykick-300w.jpeg';
-import elevatenew from '../images/transactions/elevate-new.jpg';
-import mutuo300w from '../images/transactions/mutuo-300w.jpeg';
-import channel300w from '../images/transactions/channel-300w.jpeg';
-import Photonic300w from '../images/transactions/Photonic-300w.jpeg';
-import FlexShopper300w from '../images/transactions/FlexShopper-300w.jpeg';
-import avaFin300w from '../images/transactions/AvaFin-300w.jpg';
-import capfusionnew from '../images/transactions/capfusion-new.jpg';
-import privlonew from '../images/transactions/privlo-new.jpg';
-import benchnew from '../images/transactions/bench-new.jpg';
-import DriveFactor300w from '../images/transactions/DriveFactor-300w.jpeg';
-import NexisCard300w from '../images/transactions/NexisCard-300w.jpeg';
-import creditmaxnew from '../images/transactions/creditmax-new.jpg';
-import AstorInvestment300w from '../images/transactions/AstorInvestment-300w.jpeg';
-import equiductnew from '../images/transactions/equiduct-new.jpg';
-import piconew from '../images/transactions/pico-2022.jpg';
-import UrbanFinancial300w from '../images/transactions/UrbanFinancial-300w.jpeg';
-import Knight300w from '../images/transactions/Knight-300w.jpeg';
-import Ballista300w from '../images/transactions/Ballista-300w.jpeg';
-import currenexnew from '../images/transactions/currenex-new.jpg';
-import cashedgenew from '../images/transactions/cashedge-new.jpg';
-import velocitynew from '../images/transactions/velocity-new.jpg';
-import CheckSmart300w from '../images/transactions/CheckSmart-300w.jpeg';
-import newnew from '../images/transactions/new-new.jpg';
-import resmaenew from '../images/transactions/resmae-new.jpg';
+import afs300w from '../images/transactions/afs-300w-white-min.jpg';
+import sunseeker300w from '../images/transactions/sunseeker-300w-min.jpeg';
+import veransa300w from '../images/transactions/veransa-300w-min.jpeg';
+import skykick300w from '../images/transactions/skykick-300w-min.jpeg';
+import elevatenew from '../images/transactions/elevate-new-min.jpg';
+import mutuo300w from '../images/transactions/mutuo-300w-min.jpeg';
+import channel300w from '../images/transactions/channel-300w-min.jpeg';
+import Photonic300w from '../images/transactions/Photonic-300w-min.jpeg';
+import FlexShopper300w from '../images/transactions/FlexShopper-300w-min.jpeg';
+import avaFin300w from '../images/transactions/AvaFin-300w-min.jpg';
+import capfusionnew from '../images/transactions/capfusion-new-min.jpg';
+import privlonew from '../images/transactions/privlo-new-min.jpg';
+import benchnew from '../images/transactions/bench-new-min.jpg';
+import DriveFactor300w from '../images/transactions/DriveFactor-300w-min.jpeg';
+import NexisCard300w from '../images/transactions/NexisCard-300w-min.jpeg';
+import creditmaxnew from '../images/transactions/creditmax-new-min.jpg';
+import AstorInvestment300w from '../images/transactions/AstorInvestment-300w-min.jpeg';
+import equiductnew from '../images/transactions/equiduct-new-min.jpg';
+import piconew from '../images/transactions/pico-2022-min.jpg';
+import UrbanFinancial300w from '../images/transactions/UrbanFinancial-300w-min.jpeg';
+import Knight300w from '../images/transactions/Knight-300w-min.jpeg';
+import Ballista300w from '../images/transactions/Ballista-300w-min.jpeg';
+import currenexnew from '../images/transactions/currenex-new-min.jpg';
+import cashedgenew from '../images/transactions/cashedge-new-min.jpg';
+import velocitynew from '../images/transactions/velocity-new-min.jpg';
+import CheckSmart300w from '../images/transactions/CheckSmart-300w-min.jpeg';
+import newnew from '../images/transactions/new-new-min.jpg';
+import resmaenew from '../images/transactions/resmae-new-min.jpg';
 
 var transactions =
   [
+    {
+      'Logo': 'nologo',
+      'Name': 'Project Phoenix',
+      'Description': 'UK Real Estate Developer Financing Provider',
+      'MM': 'MM',
+      'Type': 'Equity Raise',
+      'Amount': '£50M',
+      'Year': 2024,
+      'Investor': 'Undisclosed',
+      'Order': 0
+    },
     {
       'Logo': afs300w,
       'Name': 'AFS',

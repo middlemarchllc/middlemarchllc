@@ -1,15 +1,15 @@
-import SashaGrutman from '../images/team/SashaGrutman.jpeg';
-import DemetrisPapademetriou from '../images/team/DemetrisPapademetriou.jpeg';
-import AlexKim from '../images/team/AlexKim.png';
-import DavidTanzer from '../images/team/DavidTanzer.jpeg';
-import FrankPorcelli from '../images/team/FrankPorcelli.jpeg';
-import JeffMiller from '../images/team/JeffMiller.jpeg';
-import GrangeJohnson from '../images/team/GrangeJohnson.jpg';
-import PederHanssen from '../images/team/PederHanssen.jpg';
-import DaveSchrohe from '../images/team/DaveSchrohe.jpeg';
-import EricHoerdemann from '../images/team/EricHoerdemann.jpeg';
-import JamieConstantine from '../images/team/JamieConstantine.jpg';
-import MarkFinckle from '../images/team/MarkFinckle.jpg';
+import SashaGrutman from '../images/team/SashaGrutman-min.jpeg';
+import DemetrisPapademetriou from '../images/team/DemetrisPapademetriou-min.jpeg';
+import AlexKim from '../images/team/AlexKim-min.png';
+import PederHanssen from '../images/team/PederHanssen-min.jpg';
+import MarkFinckle from '../images/team/MarkFinckle-min.jpg';
+import GrangeJohnson from '../images/team/GrangeJohnson-min.jpg';
+import JamieConstantine from '../images/team/JamieConstantine-min.jpg';
+import DavidTanzer from '../images/team/DavidTanzer-min.jpeg';
+import FrankPorcelli from '../images/team/FrankPorcelli-min.jpeg';
+import JeffMiller from '../images/team/JeffMiller-min.jpeg';
+import DaveSchrohe from '../images/team/DaveSchrohe-min.jpeg';
+import EricHoerdemann from '../images/team/EricHoerdemann-min.jpeg';
 
 
 var team = [
@@ -60,7 +60,7 @@ var team = [
     'phone': '917-859-7368',
     'linkedin': 'linkedin.com/in/peder-e-hanssen-362405',
     'photo': PederHanssen,
-    'expertise': 'TBD',
+    'expertise': '',
     'paragraphs': ['Peder E. Hanssen is a member of Middlemarch Securities. He has spent the last 15 years working in the financial services industry, mainly focusing on asset-based financings in the infrastructure, maritime and energy sectors.', 'Over the last several years Mr. Hanssen has originated, structured and syndicated major financings for infrastructure projects in Europe and North America, assisting in raising in excess of US$3.0 billion for various projects and companies, including for wind farms, maritime vessels, storage terminals and road tunnels.', 'Prior to joining Middlemarch Securities, Mr. Hanssen was a Partner at Pareto Securities, a Nordic broker-dealer, where he worked for 9 years and focused mainly on fixed income products for the infrastructure sector. Prior to that he worked for DNB Bank, a Nordic maritime bank, where he focused on lending and debt capital markets origination and syndication.', 'Mr. Hanssen was educated at Royal Holloway, University of London (BSc), the London School of Economics (MSc), and has an MBA from INSEAD. He holds the Series 7, 63 and 79 FINRA Registrations.'
     ]
   },
@@ -72,7 +72,7 @@ var team = [
     'phone': '',
     'linkedin': 'linkedin.com/in/mark-finckle',
     'photo': MarkFinckle,
-    'expertise': 'TBD',
+    'expertise': '',
     'paragraphs': ['Mr. Finckle is an experienced financial executive with a diverse background in investment banking, strategic advisory, and corporate finance. As an investment banker, he has led over 200 financing transactions, raising more than $3 billion in capital, and has played a key role in sourcing and executing numerous mergers and acquisitions.', 'Mr. Finckle began his career as a Certified Public Accountant with PricewaterhouseCoopers, gaining valuable insights into financial analysis and management. Mr. Finckle then transitioned into corporate strategy, serving as Director of Strategy at Ameritech, a Fortune 500 telecommunications company, where he helped drive key business initiatives in the wireless space.', 'Mr. Finckle began his investment banking career as a technology banker with PaineWebber. He further advanced his career by holding senior investment banking positions at Bear Stearns and later leading the Telecom Investment Banking Group at Thomas Weisel Partners.', 'Mr. Finckle then headed the Investment Banking Group at Advanced Equities, a Chicago-based boutique investment banking firm, where he specialized in raising capital for portfolio companies backed by some of the most prominent venture capital firms in the US, including Kleiner Perkins, NEA, Khosla Ventures, and Benchmark. He continued his career at Paulson Investment Company, LLC, a respected investment banking firm focused on small to mid-cap markets, where he ran the investment banking department and led a variety of strategic financial initiatives for clients.', 'For the past five years, Mr.Finckle has led his own financial consulting firm, providing expert advice and strategic guidance to companies across multiple industries.', 'Mr.Finckle holds a B.S.from the University of Iowa and an MBA from the Kellogg Graduate School of Management.He holds Series 7, 63, and 79 FINRA registrations.'
     ]
   },
