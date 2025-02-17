@@ -13,6 +13,15 @@ If not, add it (without quotes) and click Save
 Check the Actions to see if it is deployed
 If not, npm run deploy
 When deployed make sure the webite is up and running
+### Important
+You can run the following code if this error occurs: `git config --global http.postBuffer 157286400`
+```
+error: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+```
+
 
 ## Available Scripts
 
