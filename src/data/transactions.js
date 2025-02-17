@@ -35,7 +35,7 @@ var transactions =
       'Description': 'UK Real Estate Developer Financing Provider',
       'MM': 'MM',
       'Type': 'Equity Raise',
-      'Amount': '£50M',
+      'Amount': '£ 50,000,000',
       'Year': 2024,
       'Investor': 'Undisclosed',
       'Order': 0.01
