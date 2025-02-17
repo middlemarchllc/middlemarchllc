@@ -38,7 +38,7 @@ var transactions =
       'Amount': '£50M',
       'Year': 2024,
       'Investor': 'Undisclosed',
-      'Order': 0
+      'Order': 0.01
     },
     {
       'Logo': afs300w,
@@ -49,7 +49,7 @@ var transactions =
       'Amount': 'Undisclosed',
       'Year': 2023,
       'Investor': 'PCG US Holdings',
-      'Order': 0
+      'Order': 0.02
     },
     {
       'Logo': sunseeker300w,
