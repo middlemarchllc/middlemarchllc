@@ -22,6 +22,7 @@ fatal: the remote end hung up unexpectedly
 Everything up-to-date
 ```
 You can run the following code if this error occurs:
+
 `git config --global http.postBuffer 157286400`
 
 
