@@ -224,7 +224,7 @@ const ContactUs = (props) => {
                 <div style={{ display: "inline" }}>&nbsp;&nbsp;|&nbsp;&nbsp;</div>
                 <div style={{ display: "inline", textDecoration: "underline" }}><a href={bcps}><em>Business Continuity Plan Summary</em></a></div>
                 <div style={{ marginTop: "1rem" }}><em>Material on this website has been prepared as a matter of general information. Middlemarch and its affiliates, employees, and clients may have recently established or disposed of, or may be establishing or disposing of, positions in securities mentioned. (Middlemarch Securities, LLC 2017)</em></div>
-                <div className="copywright"><em>©  2023 Copyright Middlemarch Partners LLC. All Rights Reserved.</em></div>
+                <div className="copywright"><em>©  {new Date().getFullYear()} Copyright Middlemarch Partners LLC. All Rights Reserved.</em></div>
               </div>
             </Col>
           </Row>
