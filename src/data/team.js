@@ -148,7 +148,7 @@ var team = [
   },
   {
     'id': 11,
-    'name': 'David Schrohe',
+    'name': 'Dave Schrohe',
     'title': 'Senior Advisor',
     'email': 'dschrohe@convergency-partners.com',
     'phone': '917-453-0555',
