@@ -68,8 +68,14 @@ const TransactionCard = (props) => {
                       null
                     }
 
-                    <div className="back-title">Description</div>
-                    <div className="back-text">{props.description}</div>
+                    {/* <div className="back-title">Description</div>
+                    <div className="back-text">{props.description}</div> */}
+                    {props.description && props.description !== "" && (
+                      <>
+                        <div className="back-title">Description</div>
+                        <div className="back-text">{props.description}</div>
+                      </>
+                    )}
                     <div className="back-title">Investor</div>
                     <div className="back-text">{props.investor}</div>
                   </div>

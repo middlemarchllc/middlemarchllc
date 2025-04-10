@@ -31,25 +31,36 @@ var transactions =
   [
     {
       'Logo': 'nologo',
-      'Name': 'Project Phoenix',
-      'Description': 'UK Real Estate Developer Financing Provider',
+      'Name': 'Project Neptune',
+      'Description': '',
       'MM': 'MM',
-      'Type': 'Equity Raise',
-      'Amount': '£ 50,000,000',
+      'Type': 'Debt Raise',
+      'Amount': '$ 90,000,000',
       'Year': 2024,
       'Investor': 'Undisclosed',
       'Order': 0.01
+    },
+    {
+      'Logo': 'nologo',
+      'Name': 'Project Phoenix',
+      'Description': 'UK Real Estate Developer Financing Provider',
+      'MM': 'MM',
+      'Type': 'Acquisition',
+      'Amount': '£ 50,000,000',
+      'Year': 2024,
+      'Investor': 'Undisclosed',
+      'Order': 0.02
     },
     {
       'Logo': afs300w,
       'Name': 'AFS',
       'Description': 'Lending Analytics Provider',
       'MM': 'MM',
-      'Type': 'Equity Raise',
+      'Type': 'Acquisition',
       'Amount': 'Undisclosed',
       'Year': 2023,
       'Investor': 'PCG US Holdings',
-      'Order': 0.02
+      'Order': 0.03
     },
     {
       'Logo': sunseeker300w,
