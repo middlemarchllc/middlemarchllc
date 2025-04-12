@@ -64,47 +64,47 @@ var team = [
     'paragraphs': ['Peder E. Hanssen is a member of Middlemarch Securities. He has spent the last 15 years working in the financial services industry, mainly focusing on asset-based financings in the infrastructure, maritime and energy sectors.', 'Over the last several years Mr. Hanssen has originated, structured and syndicated major financings for infrastructure projects in Europe and North America, assisting in raising in excess of US$3.0 billion for various projects and companies, including for wind farms, maritime vessels, storage terminals and road tunnels.', 'Prior to joining Middlemarch Securities, Mr. Hanssen was a Partner at Pareto Securities, a Nordic broker-dealer, where he worked for 9 years and focused mainly on fixed income products for the infrastructure sector. Prior to that he worked for DNB Bank, a Nordic maritime bank, where he focused on lending and debt capital markets origination and syndication.', 'Mr. Hanssen was educated at Royal Holloway, University of London (BSc), the London School of Economics (MSc), and has an MBA from INSEAD. He holds the Series 7, 63 and 79 FINRA Registrations.'
     ]
   },
-  {
-    'id': 5,
-    'name': 'Mark Finckle',
-    'title': 'Partner',
-    'email': 'mfinckle@middlemarchllc.com',
-    'phone': '',
-    'linkedin': 'linkedin.com/in/mark-finckle',
-    'photo': MarkFinckle,
-    'expertise': '',
-    'paragraphs': ['Mr. Finckle is an experienced financial executive with a diverse background in investment banking, strategic advisory, and corporate finance. As an investment banker, he has led over 200 financing transactions, raising more than $3 billion in capital, and has played a key role in sourcing and executing numerous mergers and acquisitions.', 'Mr. Finckle began his career as a Certified Public Accountant with PricewaterhouseCoopers, gaining valuable insights into financial analysis and management. Mr. Finckle then transitioned into corporate strategy, serving as Director of Strategy at Ameritech, a Fortune 500 telecommunications company, where he helped drive key business initiatives in the wireless space.', 'Mr. Finckle began his investment banking career as a technology banker with PaineWebber. He further advanced his career by holding senior investment banking positions at Bear Stearns and later leading the Telecom Investment Banking Group at Thomas Weisel Partners.', 'Mr. Finckle then headed the Investment Banking Group at Advanced Equities, a Chicago-based boutique investment banking firm, where he specialized in raising capital for portfolio companies backed by some of the most prominent venture capital firms in the US, including Kleiner Perkins, NEA, Khosla Ventures, and Benchmark. He continued his career at Paulson Investment Company, LLC, a respected investment banking firm focused on small to mid-cap markets, where he ran the investment banking department and led a variety of strategic financial initiatives for clients.', 'For the past five years, Mr.Finckle has led his own financial consulting firm, providing expert advice and strategic guidance to companies across multiple industries.', 'Mr.Finckle holds a B.S.from the University of Iowa and an MBA from the Kellogg Graduate School of Management.He holds Series 7, 63, and 79 FINRA registrations.'
-    ]
-  },
-  {
-    'id': 6,
-    'name': 'Grange Johnson',
-    'title': 'Partner',
-    'email': 'gjohnson@middlemarchllc.com',
-    'phone': '917-509-0658',
-    'linkedin': 'linkedin.com/in/grange-johnson-283578b0',
-    'photo': GrangeJohnson,
-    'expertise': 'Distressed debt, special situations equity, and event-driven investments',
-    'paragraphs': ['Mr. Johnson is a Partner at Middlemarch Partners, a merchant banking boutique. He is also the CEO of FLJ Capital, an event-driven investment and advisory firm specializing in distressed debt and special situations equity, which he founded in 2017.', 'At Middlemarch, Mr. Johnson brings extensive experience in investment and advisory services, having served in various high-profile roles throughout his career. From 2023 to 2024, he was the Deputy CIO of Appomattox Advisory, a leader in the outsourced CIO space. During 2022 to 2023, he served as a Managing Director in charge of Special Situations Investment Banking at BTIG, where he covered debt/equity capital markets, private placements, restructurings, and sponsor coverage.', 'Before joining Middlemarch, Mr. Johnson held significant positions in the investment banking and asset management sectors. From 2019 to 2020, he was a Managing Director at Gamco Investors Inc., a $30+ billion asset manager, where he built a distressed securities business reporting directly to Mario Gabelli. Prior to that, he led LaGrange Capital Partners, a fund he founded in 2000, achieving a net return of 24% through March 2007. His fund was ranked by Bloomberg Markets Magazine and Barron\'s for its high performance among event- driven managers.', 'Earlier in his career, Mr. Johnson co-founded and co-managed the CoMac Opportunities Fund, investing in post-bankruptcy and special situation equities. He also worked as an analyst at Chesapeake Partners and Perry Partners, focusing on distressed securities and risk arbitrage, and as a management consultant at McKinsey & Company. He began his career in the restructuring group of Merrill Lynch\'s Investment Banking division.',
-      'Mr. Johnson has served on the Board of Directors and Audit Committee of 1-800-Contacts, leading its sale to WellPoint for a 10x return, and was Executive Chairman of the Board of Forward Industries following a successful activist campaign.', 'Mr. Johnson holds a BA from Brown University and an MBA from Columbia Business School, where he was elected to the Beta Gamma Sigma honor society. He has also been a guest lecturer and evaluated student investment ideas as part of Columbia\'s value investing program.'
-    ]
-  },
-  {
-    'id': 7,
-    'name': 'Jamie P. Constantine',
-    'title': 'Partner',
-    'email': 'jconstantine@middlemarchllc.com',
-    'phone': '312-995-2979',
-    'linkedin': 'linkedin.com/in/jamie-constantine-44083913',
-    'photo': JamieConstantine,
-    'expertise': 'Heathcare, technology-enabled services, and energy.',
-    'paragraphs': [
-      'Jamie P Constantine spent 35 years as a financial and family wealth advisor with Morgan Stanley and its predecessor firms. He was named many times to the Morgan Stanley distinguished honor groups, including President\'s Club, Chairman\'s Club, Director\'s Council, and Master\'s Club.',
-      'Since leaving Morgan Stanley, Mr. Constantine has leveraged his experiences and abilities into advisory roles as an investment banker and business consultant. He focuses on health care, high-tech, and energy-related companies, including green energy. He is passionate about helping young businesses on their growth path.  He works with clients from startup to Series B round capital investment, supporting both debt and equity capital raises.',
-      'In addition to his advocacy of private business owners and entrepreneurs, Mr. Constantine has been very active in community and educational groups, including nine years on the board (and three years as the chair) of the Iowa State University Research Foundation. He was also chair for two years of the Wine Fest Des Moines, during which prior donation amounts to support the Arts in Des Moines were surpassed. He was on the board of the Bravo Greater Des Moines and on the board of the Des Moines Metropolitan Opera.',
-      'Mr. Constantine graduated from Iowa State University where he was elected President of the Student Body. He holds a Series 7 and Series 63 FINRA Registrations.'
-    ]
-  },
+  // {
+  //   'id': 5,
+  //   'name': 'Mark Finckle',
+  //   'title': 'Partner',
+  //   'email': 'mfinckle@middlemarchllc.com',
+  //   'phone': '',
+  //   'linkedin': 'linkedin.com/in/mark-finckle',
+  //   'photo': MarkFinckle,
+  //   'expertise': '',
+  //   'paragraphs': ['Mr. Finckle is an experienced financial executive with a diverse background in investment banking, strategic advisory, and corporate finance. As an investment banker, he has led over 200 financing transactions, raising more than $3 billion in capital, and has played a key role in sourcing and executing numerous mergers and acquisitions.', 'Mr. Finckle began his career as a Certified Public Accountant with PricewaterhouseCoopers, gaining valuable insights into financial analysis and management. Mr. Finckle then transitioned into corporate strategy, serving as Director of Strategy at Ameritech, a Fortune 500 telecommunications company, where he helped drive key business initiatives in the wireless space.', 'Mr. Finckle began his investment banking career as a technology banker with PaineWebber. He further advanced his career by holding senior investment banking positions at Bear Stearns and later leading the Telecom Investment Banking Group at Thomas Weisel Partners.', 'Mr. Finckle then headed the Investment Banking Group at Advanced Equities, a Chicago-based boutique investment banking firm, where he specialized in raising capital for portfolio companies backed by some of the most prominent venture capital firms in the US, including Kleiner Perkins, NEA, Khosla Ventures, and Benchmark. He continued his career at Paulson Investment Company, LLC, a respected investment banking firm focused on small to mid-cap markets, where he ran the investment banking department and led a variety of strategic financial initiatives for clients.', 'For the past five years, Mr.Finckle has led his own financial consulting firm, providing expert advice and strategic guidance to companies across multiple industries.', 'Mr.Finckle holds a B.S.from the University of Iowa and an MBA from the Kellogg Graduate School of Management.He holds Series 7, 63, and 79 FINRA registrations.'
+  //   ]
+  // },
+  // {
+  //   'id': 6,
+  //   'name': 'Grange Johnson',
+  //   'title': 'Partner',
+  //   'email': 'gjohnson@middlemarchllc.com',
+  //   'phone': '917-509-0658',
+  //   'linkedin': 'linkedin.com/in/grange-johnson-283578b0',
+  //   'photo': GrangeJohnson,
+  //   'expertise': 'Distressed debt, special situations equity, and event-driven investments',
+  //   'paragraphs': ['Mr. Johnson is a Partner at Middlemarch Partners, a merchant banking boutique. He is also the CEO of FLJ Capital, an event-driven investment and advisory firm specializing in distressed debt and special situations equity, which he founded in 2017.', 'At Middlemarch, Mr. Johnson brings extensive experience in investment and advisory services, having served in various high-profile roles throughout his career. From 2023 to 2024, he was the Deputy CIO of Appomattox Advisory, a leader in the outsourced CIO space. During 2022 to 2023, he served as a Managing Director in charge of Special Situations Investment Banking at BTIG, where he covered debt/equity capital markets, private placements, restructurings, and sponsor coverage.', 'Before joining Middlemarch, Mr. Johnson held significant positions in the investment banking and asset management sectors. From 2019 to 2020, he was a Managing Director at Gamco Investors Inc., a $30+ billion asset manager, where he built a distressed securities business reporting directly to Mario Gabelli. Prior to that, he led LaGrange Capital Partners, a fund he founded in 2000, achieving a net return of 24% through March 2007. His fund was ranked by Bloomberg Markets Magazine and Barron\'s for its high performance among event- driven managers.', 'Earlier in his career, Mr. Johnson co-founded and co-managed the CoMac Opportunities Fund, investing in post-bankruptcy and special situation equities. He also worked as an analyst at Chesapeake Partners and Perry Partners, focusing on distressed securities and risk arbitrage, and as a management consultant at McKinsey & Company. He began his career in the restructuring group of Merrill Lynch\'s Investment Banking division.',
+  //     'Mr. Johnson has served on the Board of Directors and Audit Committee of 1-800-Contacts, leading its sale to WellPoint for a 10x return, and was Executive Chairman of the Board of Forward Industries following a successful activist campaign.', 'Mr. Johnson holds a BA from Brown University and an MBA from Columbia Business School, where he was elected to the Beta Gamma Sigma honor society. He has also been a guest lecturer and evaluated student investment ideas as part of Columbia\'s value investing program.'
+  //   ]
+  // },
+  // {
+  //   'id': 7,
+  //   'name': 'Jamie P. Constantine',
+  //   'title': 'Partner',
+  //   'email': 'jconstantine@middlemarchllc.com',
+  //   'phone': '312-995-2979',
+  //   'linkedin': 'linkedin.com/in/jamie-constantine-44083913',
+  //   'photo': JamieConstantine,
+  //   'expertise': 'Heathcare, technology-enabled services, and energy.',
+  //   'paragraphs': [
+  //     'Jamie P Constantine spent 35 years as a financial and family wealth advisor with Morgan Stanley and its predecessor firms. He was named many times to the Morgan Stanley distinguished honor groups, including President\'s Club, Chairman\'s Club, Director\'s Council, and Master\'s Club.',
+  //     'Since leaving Morgan Stanley, Mr. Constantine has leveraged his experiences and abilities into advisory roles as an investment banker and business consultant. He focuses on health care, high-tech, and energy-related companies, including green energy. He is passionate about helping young businesses on their growth path.  He works with clients from startup to Series B round capital investment, supporting both debt and equity capital raises.',
+  //     'In addition to his advocacy of private business owners and entrepreneurs, Mr. Constantine has been very active in community and educational groups, including nine years on the board (and three years as the chair) of the Iowa State University Research Foundation. He was also chair for two years of the Wine Fest Des Moines, during which prior donation amounts to support the Arts in Des Moines were surpassed. He was on the board of the Bravo Greater Des Moines and on the board of the Des Moines Metropolitan Opera.',
+  //     'Mr. Constantine graduated from Iowa State University where he was elected President of the Student Body. He holds a Series 7 and Series 63 FINRA Registrations.'
+  //   ]
+  // },
   {
     'id': 8,
     'name': 'David Tanzer',
